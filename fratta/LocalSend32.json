@@ -9,7 +9,7 @@
   "description": "LocalSend32 is a Win32/C client for LocalSend, made for Windows 2000 or newer. You can receive and send files between devices on the same network, fast and easy. You can also control this app directly only from the tray icon. This version, also, works with whatever other LocalSend client you have, including the official one.",
   "dateOriginal": "2026-09-01",
   "dateSource": "2026-09-13",
-  "size": "366000",
+  "size": "808000",
   "dependencies": [],
   "instructionSteps": ["Unzip the app", "Remember that you need OpenSSL 3.x for Windows", "Run the LocalSend exe"],
   "isImmersive": false,
