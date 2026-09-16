@@ -22,7 +22,7 @@
   "isPortable": true,
   "compatibility": ["NT 3.51", "NT 4", "95", "98", "ME", "2000", "XP", "Vista", "7", "8.0", "8.1", "10", "11"],
   "iconUrl": "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/localsend.png",
-  "screenshots": ["https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/4.png", "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/1.png", https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/2.png, https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/3.png"],
+  "screenshots": ["https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/4.png", "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/1.png", "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/2.png, https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/3.png"],
   "downloadUrl": "https://github.com/fraaaaa4/LocalSend32/releases/download/2.0.0/LocalSend9x.exe",
   "language": ["en-US, it-IT, ch-ZN"],
   "isTrial": false
