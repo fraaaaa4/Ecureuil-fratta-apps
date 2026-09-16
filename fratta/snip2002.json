@@ -21,7 +21,7 @@
   "uninstallParameters": [],
   "isPortable": true,
   "compatibility": ["XP", "Vista", "7", "8.0", "8.1", "10", "11"],
-  "iconUrl": "https://github.com/fraaaaa4/snip2002/blob/main/IconGroup32512_11_64x64x32.png",
+  "iconUrl": "https://raw.githubusercontent.com/fraaaaa4/snip2002/refs/heads/main/IconGroup32512_11_64x64x32.png",
   "screenshots": ["https://user-images.githubusercontent.com/87281326/214866872-37055704-0f94-4fb7-90ba-92cf890de757.png", "https://user-images.githubusercontent.com/87281326/214867317-854c9624-1c5f-4bb1-adc3-84aaaa62f106.png", "https://user-images.githubusercontent.com/87281326/214871965-dbfa519e-ef4e-4bc0-9aab-c21e40670ab1.png"],
   "downloadUrl": "https://github.com/fraaaaa4/snip2002/releases/download/main/Release.zip",
   "language": ["en-US"],
