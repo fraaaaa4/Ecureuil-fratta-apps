@@ -137,11 +137,12 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/localsend.png",
+    "iconUrl": "https://raw.githubusercontent.com/fraaaaa4/LocalSend32/refs/heads/localsendRT/localsend.png",
     "screenshots": [
-      "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/4.png",
-      "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/1.png",
-      "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/2.png, https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/3.png"
+      "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/4.png?raw=true",
+      "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/1.png?raw=true",
+      "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/2.png?raw=true",
+      "https://github.com/fraaaaa4/LocalSend32/blob/localsendRT/Screenshots/3.png?raw=true"
     ],
     "downloadUrl": "https://github.com/fraaaaa4/LocalSend32/releases/download/2.0.0/LocalSend9x.exe",
     "language": [
