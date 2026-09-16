@@ -179,7 +179,7 @@
     "DownloadPath": "PDFView.zip",
     "fileType": "zip",
     "uninstallParameters": [],
-    "isPortable": false,
+    "isPortable": true,
     "compatibility": [
       "2000",
       "2002",
