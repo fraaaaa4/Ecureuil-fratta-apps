@@ -406,5 +406,57 @@
       "en-US"
     ],
     "isTrial": false
+  },
+  {
+    "id": "snip2002",
+    "name": "Screen Snip",
+    "version": "1.0",
+    "author": "fratta",
+    "uploader": "fratta",
+    "source": "fratta",
+    "category": "Utilities",
+    "description": "Screen Snip is a complete screenshot and recording tool made in WinForms. You can screenshot a rectangle, or a free area, or the screen; you can also record your screen, while it can follow your mouse too. It features a Windows-like interface, with many features such as a compact floating mode, keyboard binding and auto-save.",
+    "dateOriginal": "2023-01-26",
+    "dateSource": "2026-08-13",
+    "size": "1677721",
+    "dependencies": [
+      ".NET Framework 4 Client Profile"
+    ],
+    "instructionSteps": [
+      "Unzip the app",
+      "Run the ScreenSnip executable"
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://github.com/fraaaaa4/snip2002",
+      "https://www.codeproject.com/Articles/434266/Screen-Capture-2",
+      "https://www.mediafire.com/?0efeierk7914yi9"
+    ],
+    "architecture": "x86-32",
+    "installParameters": [],
+    "DownloadPath": "Release.zip",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "XP",
+      "Vista",
+      "7",
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://github.com/fraaaaa4/snip2002/blob/main/IconGroup32512_11_64x64x32.png",
+    "screenshots": [
+      "https://user-images.githubusercontent.com/87281326/214866872-37055704-0f94-4fb7-90ba-92cf890de757.png",
+      "https://user-images.githubusercontent.com/87281326/214867317-854c9624-1c5f-4bb1-adc3-84aaaa62f106.png",
+      "https://user-images.githubusercontent.com/87281326/214871965-dbfa519e-ef4e-4bc0-9aab-c21e40670ab1.png"
+    ],
+    "downloadUrl": "https://github.com/fraaaaa4/snip2002/releases/download/main/Release.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
   }
 ]
