@@ -193,5 +193,58 @@
       "en-US, it-IT, ch-ZN"
     ],
     "isTrial": false
+  },
+  {
+    "id": "logix",
+    "name": "Logix",
+    "version": "Testfire 30th April",
+    "author": "fratta",
+    "uploader": "fratta",
+    "source": "fratta",
+    "category": "Utilities",
+    "description": "Logix is a simple and easy to use Prolog/LISP/etc. text editor with syntax highlighting and many other features.",
+    "dateOriginal": "2024-05-01",
+    "dateSource": "2026-09-16",
+    "size": "6620000",
+    "dependencies": [
+      ".NET Framework 1.1",
+      ".NET Framework 2.0"
+    ],
+    "instructionSteps": [
+      "Unzip the app",
+      "Run the Logix executable"
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://github.com/fraaaaa4/logix",
+      "https://github.com/fraaaaa4/logix/wiki#roadmap",
+      "https://github.com/fraaaaa4/logix/releases/tag/testfire-30-04"
+    ],
+    "architecture": "x86-32",
+    "installParameters": [],
+    "DownloadPath": "Debug.zip",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "2000",
+      "XP",
+      "Vista",
+      "7",
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://private-user-images.githubusercontent.com/87281326/282270058-908e4050-b1e6-4cfc-9cb2-39db655ac24d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk1NzkzNjMsIm5iZiI6MTc4OTU3OTA2MywicGF0aCI6Ii84NzI4MTMyNi8yODIyNzAwNTgtOTA4ZTQwNTAtYjFlNi00Y2ZjLTljYjItMzlkYjY1NWFjMjRkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE2VDE3MTc0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzZjU0NDNkMGMyODAyNWFhM2U2ZGQxYzBkZjVmNmY1NWYyMGZhN2Y5NTlmZTJjZTQzNDJlYTIxMzJlOWZjNjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.p7J_V8w9B4NdVUJp-RkQDSONmAqhWnQaOJLdk0V3vUw",
+    "screenshots": [
+      "https://private-user-images.githubusercontent.com/87281326/282269688-2f8e67ec-76cd-4c54-a39d-20ea1e7a6bf0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk1NzkzOTksIm5iZiI6MTc4OTU3OTA5OSwicGF0aCI6Ii84NzI4MTMyNi8yODIyNjk2ODgtMmY4ZTY3ZWMtNzZjZC00YzU0LWEzOWQtMjBlYTFlN2E2YmYwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE2VDE3MTgxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmYzA1NjE2NTY5ZWRhYmFlNGY1OWVjY2M3NzdlM2E0MzQxZGI4MWNmMzc0NjZiNGFkNDE2NjY4NGJkNzJmOGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.bxrGK3zmS5z-gWcX99Gd5pb6WjK3qW_-nVVg1q2CqB8",
+      "https://private-user-images.githubusercontent.com/87281326/282269640-a0fe45b0-b595-417d-ae3f-73de637a9c97.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk1NzkzOTksIm5iZiI6MTc4OTU3OTA5OSwicGF0aCI6Ii84NzI4MTMyNi8yODIyNjk2NDAtYTBmZTQ1YjAtYjU5NS00MTdkLWFlM2YtNzNkZTYzN2E5Yzk3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE2VDE3MTgxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4ODNkZTVlMWFhYTJmOTZhNzM3MDRjMWY5YjdkNjQ3MDI0M2NlMDRiOGQyM2I2NWNhZjU0Mjc1Njk1MGQ1NDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.-mUSsKM8q6lyW2xQ9n-XwNY489WUdgByQ-osRHhlUj4"
+    ],
+    "downloadUrl": "https://github.com/fraaaaa4/logix/releases/download/testfire-30-04/Debug.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
   }
 ]
