@@ -459,5 +459,44 @@
       "en-US"
     ],
     "isTrial": false
+  },
+  {
+    "id": "windowspagerRT",
+    "name": "Windowspager",
+    "version": "1.0",
+    "author": "Jochen Baier",
+    "uploader": "fratta",
+    "source": "fratta",
+    "category": "Utilities",
+    "description": "WindowsPager is a desktop-switcher/pager for Windows to manage virtual workspaces.",
+    "dateOriginal": "2026-09-01",
+    "dateSource": "2026-09-13",
+    "size": "520000",
+    "dependencies": [],
+    "instructionSteps": [],
+    "isImmersive": false,
+    "links": [
+      "https://github.com/zwcloud/WindowsPager"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "windowspager.exe",
+    "fileType": "exe",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Visnalize/resources/main/icons/win7/Shell32.dll/explorer_258.ico",
+    "screenshots": [
+      "https://github.com/fraaaaa4/windowspager_arm32/blob/12887ae9af086e74398bf20614d54a51d34409df/Cattura.PNG"
+    ],
+    "downloadUrl": "https://github.com/fraaaaa4/windowspager_arm32/blob/12887ae9af086e74398bf20614d54a51d34409df/WindowsPager.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
   }
 ]
