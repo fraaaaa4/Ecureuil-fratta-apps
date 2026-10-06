@@ -30,10 +30,10 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/xbmc/xbmc/master/tools/windows/packaging/media/kodi.ico",
+  "iconUrl": "https://getdrawings.com/icon-images/kodi-icon-20.png",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kodi_17.0_Krypton_Estuary_home_screen.png",
-    "https://kodi.tv/images/carousel/tv-shows.jpg"
+    "https://mobile-cdn.softpedia.com/apk/images/kodi_1.jpg",
+    "https://www.videohelp.com/softwareimages/kodi_1117-2.jpg"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/Kodi.Nexus.20.90.125.0_ARM.zip",
   "language": [

@@ -30,10 +30,10 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/src/icons/qBittorrent.ico",
+  "iconUrl": "https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/qbittorrent-icon.png",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/3/30/Qbittorrent_4.1.5_on_Windows_10.png",
-    "https://www.qbittorrent.org/img/screenshots/qbittorrent_main_window.png"
+    "https://cdn.neowin.com/news/images/uploaded/2022/11/1669572994_qbittorrent45.jpg",
+    "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/4f1faa86-96d2-11e6-ad93-00163ed833e7/3045064084/qbittorrent-qbittorrent.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/qBittorrent-4.5.0alpha1.zip",
   "language": [

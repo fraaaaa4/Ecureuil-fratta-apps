@@ -30,10 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/AutoHotkey/AutoHotkey/master/Template.ico",
+  "iconUrl": "https://icons.veryicon.com/png/o/business/vscode-program-item-icon/autohotkey.png",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/4/4c/AutoHotkey_Window_Spy.png",
-    "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ahk_script.png"
+    "https://www.windowsmode.com/wp-content/uploads/2025/06/AutoHotkey-Screenshot-700x319.webp"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/AutoHotkey.zip",
   "language": [

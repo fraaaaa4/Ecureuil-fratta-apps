@@ -30,9 +30,10 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/coelckers/prboom-plus/master/prboom2/src/MAC/PrBoom.icns",
+  "iconUrl": "https://images.icon-icons.com/1508/PNG/512/prboomplus_103956.png",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/5/5a/PrBoom.png"
+    "https://db.universal-team.net/assets/images/screenshots/prboom/gameplay-2.png",
+    "https://db.universal-team.net/assets/images/screenshots/prboom/gameplay-1.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/prboom_arm.7z",
   "language": [

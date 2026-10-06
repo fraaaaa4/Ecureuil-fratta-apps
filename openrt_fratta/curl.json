@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/curl/curl/master/docs/favicon.ico",
+  "iconUrl": "https://www.svgrepo.com/show/305922/curl.svg",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/0/05/Curl-screenshot.png"
+    "https://www.windowsdigitals.com/wp-content/uploads/Setting-HTTP-Headers-with-cURL-command-in-Windows-11.jpg"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/curl-7.70.0-winarm32.zip",
   "language": [

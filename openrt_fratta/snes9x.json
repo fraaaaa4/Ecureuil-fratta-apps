@@ -30,9 +30,12 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/snes9xgit/snes9x/master/win32/snes9x.ico",
+  "iconUrl": "https://getdrawings.com/icon-images/snes9x-icon-12.png",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/d/d4/Snes9x_1.60_Windows_10.png"
+    "https://cdn.lo4d.com/t/screenshot/snes9x-2.png",
+    "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/7c3e3106-96d0-11e6-9060-00163ec9f5fa/1148136678/snes9x-screenshot.jpg",
+    "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/7c3e3106-96d0-11e6-9060-00163ec9f5fa/3114626326/snes9x-screenshot.jpg",
+    "https://www.softpaz.com/screenshots/snes9x-snes9x/11.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/snes9x_1.53_arm.7z",
   "language": [

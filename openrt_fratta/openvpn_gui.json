@@ -30,9 +30,10 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/OpenVPN/openvpn-gui/master/res/openvpn.ico",
+  "iconUrl": "https://images.icon-icons.com/1508/PNG/512/openvpn_104297.png",
   "screenshots": [
-    "https://openvpn.net/wp-content/uploads/openvpn-connect-for-windows.jpg"
+    "https://cdn.lo4d.com/t/screenshot/openvpn-gui-2.png",
+    "https://cdn.lo4d.com/t/screenshot/800/openvpn-gui-4.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/openvpn-gui-v11.50.0.0-Release-winarm32.zip",
   "language": [

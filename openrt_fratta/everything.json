@@ -30,10 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/voidtools/Everything/master/Everything.ico",
+  "iconUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2024/10/everythingportable-logo.png?q=70&fit=contain&w=420&dpr=1",
   "screenshots": [
-    "https://www.voidtools.com/Everything.png",
-    "https://upload.wikimedia.org/wikipedia/en/5/52/Everything_search_engine_1.4.1.png"
+    "https://www.voidtools.com/support/everything/Everything.Search.Window.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/Everything-1.4.1.1026.ARM.zip",
   "language": [

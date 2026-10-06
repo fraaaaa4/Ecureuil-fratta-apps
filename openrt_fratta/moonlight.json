@@ -30,10 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/moonlight-stream/moonlight-qt/master/app/gui/res/moonlight.ico",
+  "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/1a9157dd91e51082d1d02b15dc1deb6a.png",
   "screenshots": [
-    "https://moonlight-stream.org/images/moonlight-pc-app.png",
-    "https://moonlight-stream.org/images/moonlight-mobile-app.png"
+    "https://moonlight-stream.org/images/steam_framed.webp"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/Moonlight-winarm32.zip",
   "language": [

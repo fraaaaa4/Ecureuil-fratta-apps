@@ -36,8 +36,7 @@
   ],
   "iconUrl": "https://raw.githubusercontent.com/python/cpython/main/PC/icons/python.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/2/23/Python_IDLE_Screenshot.png",
-    "https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg"
+    "https://storage.googleapis.com/static.configserverfirewall.com/images/windows10/python/IDLE.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/python-3.12.4-arm.exe",
   "language": [

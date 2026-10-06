@@ -32,8 +32,7 @@
   ],
   "iconUrl": "https://raw.githubusercontent.com/chocolate-doom/chocolate-doom/master/data/doom.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/en/8/87/Duke_Nukem_3D_Screenshot.png",
-    "https://www.dosbox.com/comp_list/images/duke3d.png"
+    "https://raw.githubusercontent.com/GPSnoopy/BelgianChocolateDuke3D/master/doc/screenshot0.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/ChocolateDuke3D.zip",
   "language": [

@@ -34,10 +34,10 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/7zip-logo.png",
+  "iconUrl": "https://logodix.com/logo/1966283.png",
   "screenshots": [
-    "https://www.7-zip.org/7zippng.png",
-    "https://upload.wikimedia.org/wikipedia/en/c/c5/7-Zip_19.00.png"
+    "https://www.fileeagle.com/data/2015/09/Screenshot_0_7-Zip.png",
+    "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/a46aa7bc-96d1-11e6-ab03-00163ed833e7/4271811221/7-zip-screenshot.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/7z2407-arm.exe",
   "language": [

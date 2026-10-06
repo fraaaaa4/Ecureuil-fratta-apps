@@ -30,10 +30,10 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/putty/putty.png",
+  "iconUrl": "https://freesvg.org/img/1661407456putty.png",
   "screenshots": [
-    "https://www.chiark.greenend.org.uk/~sgtatham/putty/screenshot.png",
-    "https://upload.wikimedia.org/wikipedia/commons/6/69/PuTTY_0.71_on_Windows_10.png"
+    "https://docs.rc.ufl.edu/access/img/putty-connect-hpg.png",
+    "https://userpage.fu-berlin.de/~rober/blog/wp-content/uploads/ssh-connection-using-putty-and-pagent.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/putty.zip",
   "language": [

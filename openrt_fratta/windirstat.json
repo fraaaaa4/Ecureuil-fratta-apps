@@ -30,10 +30,10 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/windirstat/windirstat/master/windirstat/res/icon1.ico",
+  "iconUrl": "https://blog.windirstat.net/wp-content/uploads/2010/11/tests/03.png",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/c/cd/WinDirStat_Screenshot.png",
-    "https://windirstat.net/images/windirstat-main.jpg"
+    "https://windirstat.net/images/windirstat.jpg",
+    "https://www.lifewire.com/thmb/61LamjkPDgdN5nkf1VbHUoVoyhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/windirstat-56aa24cc5f9b58b7d000fbf2.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/WinDirStat-arm.msi",
   "language": [

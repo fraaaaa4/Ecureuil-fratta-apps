@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/qemu/qemu/master/pc-bios/qemu_logo_no_text.svg",
+  "iconUrl": "https://img.utdstc.com/icon/dad/08c/dad08ca6b7c474b12fb456d0508970cd49a0a77b7e03890d2c3e75865e7951d1:200",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/1/14/Qemu-linux.png"
+    "https://betawiki.net/images/0/03/Qemu31_Windows8_7927.PNG"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/QEMU6-ARM32-BUILD5.tar.xz",
   "language": [

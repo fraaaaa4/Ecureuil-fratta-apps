@@ -30,10 +30,11 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/TightVNC/tightvnc-java/master/src/main/resources/com/glavsoft/viewer/images/vnc-logo-256x256.png",
+  "iconUrl": "http://www.upmychrome.com/images/uploads/products/2241/tightvnc-logo.png",
   "screenshots": [
-    "https://www.tightvnc.com/img/screen-viewer-1.png",
-    "https://www.tightvnc.com/img/screen-server-1.png"
+    "https://image.winudf.com/v2/image1/Mjc1NzIxMTBfMTY5ODE3MzgxNV8wNjM/screen-0.png?fakeurl=1&type=png",
+    "https://sc.filehippo.net/images/t_app-cover-l,f_auto/p/804b0bd8-9a64-11e6-8d95-00163ed833e7/65102941/tightvnc-administration.png",
+    "https://www.filecroco.com/wp-content/uploads/2017/04/tightvnc-1.jpg"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/tightvnc.zip",
   "language": [

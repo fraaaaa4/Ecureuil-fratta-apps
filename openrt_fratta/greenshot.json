@@ -30,8 +30,10 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://raw.githubusercontent.com/greenshot/greenshot/master/Greenshot/Icons/Greenshot.ico",
-  "screenshots": [],
+  "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c52795fd-f7db-44f1-9d90-72dc3bd34c66/df0iqo3-c9fc22ec-3453-4bbe-80b3-8898c9a73e90.png/v1/fill/w_894,h_894/greenshot_by_mightyfenerimperium_df0iqo3-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2M1Mjc5NWZkLWY3ZGItNDRmMS05ZDkwLTcyZGMzYmQzNGM2NlwvZGYwaXFvMy1jOWZjMjJlYy0zNDUzLTRiYmUtODBiMy04ODk4YzlhNzNlOTAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.EgQHjgxGLsXn3B99frslmgpqpoI604yGpeM4OegtLZY",
+  "screenshots": [
+    "https://cdn.neowin.com/news/images/uploaded/2017/09/1505365964_greenshot_screen.jpg"
+  ],
   "downloadUrl": "https://files.open-rt.party/Software/Greenshot_0.7.009_AnyCPU.7z",
   "language": [
     "en-US"
