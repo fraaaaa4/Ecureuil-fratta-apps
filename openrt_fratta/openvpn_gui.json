@@ -2,7 +2,7 @@
   "id": "openvpn_gui",
   "name": "OpenVPN GUI",
   "version": "11.50.0",
-  "author": "Open Source Community",
+  "author": "OpenVPN Inc.",
   "uploader": "fratta",
   "source": "openrt_fratta",
   "category": "Network",

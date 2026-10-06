@@ -2,7 +2,7 @@
   "id": "qemu",
   "name": "QEMU",
   "version": "6",
-  "author": "Open Source Community",
+  "author": "Fabrice Bellard / The QEMU Project",
   "uploader": "fratta",
   "source": "openrt_fratta",
   "category": "Utilities",

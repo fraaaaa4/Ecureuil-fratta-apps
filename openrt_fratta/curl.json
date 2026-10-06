@@ -2,7 +2,7 @@
   "id": "curl",
   "name": "cURL",
   "version": "7.70",
-  "author": "Open Source Community",
+  "author": "Daniel Stenberg",
   "uploader": "fratta",
   "source": "openrt_fratta",
   "category": "Development",
