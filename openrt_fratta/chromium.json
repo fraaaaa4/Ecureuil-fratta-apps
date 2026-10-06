@@ -1,0 +1,42 @@
+{
+  "id": "chromium",
+  "name": "Chromium Beta",
+  "version": "88",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Network",
+  "description": "Chromium is a free and open-source web browser project, principally developed and maintained by Google. Having a modern browser port for ARM32 is an absolute game changer, allowing you to browse modern web pages on older Windows RT devices.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "48129638",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically execute the setup installer."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "chromium-winarm32-beta.exe",
+  "fileType": "exe",
+  "uninstallParameters": [],
+  "isPortable": false,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/256px-Chromium_Logo.svg.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chromium_79_on_Windows_10.png/800px-Chromium_79_on_Windows_10.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/chromium-winarm32-beta.exe",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

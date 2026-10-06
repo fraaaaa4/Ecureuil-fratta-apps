@@ -1,0 +1,42 @@
+{
+  "id": "mpv",
+  "name": "mpv Player",
+  "version": "2.0",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Multimedia",
+  "description": "mpv is a free, open-source, and cross-platform media player. It focuses on performance, minimalism, and a streamlined approach, often outperforming other players in rendering high-quality video smoothly on lower-end ARM hardware.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "19922944",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "mpv.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mpv_logo.png/256px-Mpv_logo.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mpv-0.32.0.png/800px-Mpv-0.32.0.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/mpv-2.0-winarm32.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

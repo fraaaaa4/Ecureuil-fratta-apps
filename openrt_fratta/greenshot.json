@@ -1,0 +1,42 @@
+{
+  "id": "greenshot",
+  "name": "Greenshot",
+  "version": "0.7.009",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Productivity",
+  "description": "Greenshot is a light-weight screenshot software tool for Windows with key features such as quickly creating screenshots of a selected region, window or fullscreen, and annotating them easily.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "98713",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "Greenshot.exe",
+  "fileType": "7z",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Greenshot_Logo.png/256px-Greenshot_Logo.png",
+  "screenshots": [
+    "https://getgreenshot.org/assets/images/greenshot-editor-2012.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/Greenshot_0.7.009_AnyCPU.7z",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

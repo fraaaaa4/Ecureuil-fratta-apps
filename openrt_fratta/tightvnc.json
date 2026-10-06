@@ -1,0 +1,43 @@
+{
+  "id": "tightvnc",
+  "name": "TightVNC",
+  "version": "2.8",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Network",
+  "description": "TightVNC is a free remote control software package. With TightVNC, you can see the desktop of a remote machine and control it with your local mouse and keyboard, just like you would do it sitting in the front of that computer.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "972185",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "tvnviewer.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TightVNC_logo.png/256px-TightVNC_logo.png",
+  "screenshots": [
+    "https://www.tightvnc.com/img/screen-viewer-1.png",
+    "https://www.tightvnc.com/img/screen-server-1.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/tightvnc.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

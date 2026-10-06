@@ -1,0 +1,42 @@
+{
+  "id": "prboom",
+  "name": "PrBoom",
+  "version": "2.5",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Games",
+  "description": "PrBoom is a version of the classic 3D shoot-em-up game Doom, originally written by id Software. It is a highly compatible source port that runs extremely well on ARM32 processors.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "1887436",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "prboom.exe",
+  "fileType": "7z",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Doom_logo.png/256px-Doom_logo.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PrBoom.png/800px-PrBoom.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/prboom_arm.7z",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

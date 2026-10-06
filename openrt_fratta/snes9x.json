@@ -1,0 +1,42 @@
+{
+  "id": "snes9x",
+  "name": "Snes9x",
+  "version": "1.53",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Games",
+  "description": "Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom on your Windows ARM tablet.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "2516582",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "snes9x.exe",
+  "fileType": "7z",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Snes9x_logo.png/256px-Snes9x_logo.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Snes9x_1.60_Windows_10.png/800px-Snes9x_1.60_Windows_10.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/snes9x_1.53_arm.7z",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}
