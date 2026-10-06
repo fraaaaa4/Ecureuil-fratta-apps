@@ -30,7 +30,7 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MGBA_logo.png/256px-MGBA_logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/mgba-emu/mgba/master/res/mgba-256.png",
   "screenshots": [
     "https://mgba.io/images/screenshots/mgba-windows.png",
     "https://mgba.io/images/screenshots/mgba-windows-2.png"

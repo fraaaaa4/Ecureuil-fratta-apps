@@ -30,7 +30,7 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/OpenVPN_logo.svg/256px-OpenVPN_logo.svg.png",
+  "iconUrl": "https://raw.githubusercontent.com/OpenVPN/openvpn-gui/master/res/openvpn.ico",
   "screenshots": [
     "https://openvpn.net/wp-content/uploads/openvpn-connect-for-windows.jpg"
   ],

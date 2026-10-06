@@ -30,10 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/RetroArch_logo.png/256px-RetroArch_logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/libretro/RetroArch/master/media/retroarch.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/RetroArch_1.7.5_XMB.png/800px-RetroArch_1.7.5_XMB.png",
-    "https://www.retroarch.com/assets/images/retroarch-ozone-screenshot.png"
+    "https://upload.wikimedia.org/wikipedia/commons/2/2f/RetroArch_1.7.5_XMB.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/RetroArch-20240609T152111Z-001.zip",
   "language": [

@@ -34,10 +34,10 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/256px-Python-logo-notext.svg.png",
+  "iconUrl": "https://raw.githubusercontent.com/python/cpython/main/PC/icons/python.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Python_IDLE_Screenshot.png/800px-Python_IDLE_Screenshot.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/800px-Python_logo_and_wordmark.svg.png"
+    "https://upload.wikimedia.org/wikipedia/commons/2/23/Python_IDLE_Screenshot.png",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/python-3.12.4-arm.exe",
   "language": [

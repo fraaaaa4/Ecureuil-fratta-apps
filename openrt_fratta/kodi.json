@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kodi-logo-Thumbnail.png/256px-Kodi-logo-Thumbnail.png",
+  "iconUrl": "https://raw.githubusercontent.com/xbmc/xbmc/master/tools/windows/packaging/media/kodi.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kodi_17.0_Krypton_Estuary_home_screen.png/800px-Kodi_17.0_Krypton_Estuary_home_screen.png",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kodi_17.0_Krypton_Estuary_home_screen.png",
     "https://kodi.tv/images/carousel/tv-shows.jpg"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/Kodi.Nexus.20.90.125.0_ARM.zip",

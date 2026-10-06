@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/256px-Chromium_Logo.svg.png",
+  "iconUrl": "https://raw.githubusercontent.com/chromium/chromium/main/chrome/app/theme/chromium/win/chromium.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chromium_79_on_Windows_10.png/800px-Chromium_79_on_Windows_10.png"
+    "https://upload.wikimedia.org/wikipedia/commons/4/4e/Chromium_79_on_Windows_10.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/chromium-winarm32-beta.exe",
   "language": [

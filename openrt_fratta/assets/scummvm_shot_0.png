@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en" class="theme-scumm">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="no-referrer">
+    <base href="https://www.scummvm.org/">
+    <link rel="alternate" type="application/atom+xml" title="ScummVM Atom news feed" href="https://www.scummvm.org//feeds/atom/">
+    <link rel="alternate" type="application/rss+xml" title="ScummVM RSS news feed" href="https://www.scummvm.org//feeds/rss/">
+    <title>ScummVM :: Home</title>
+    <meta name="description" content="ScummVM is a program which allows you to run certain classic graphical adventure and role-playing games, provided you already have their data files. The clever part about this: ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed! ScummVM is a complete rewrite of these games' executables and is not an emulator.">    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=oLBEjaJ9ag">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=oLBEjaJ9ag">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=oLBEjaJ9ag">
+    <link rel="manifest" href="/site.webmanifest?v=oLBEjaJ9ag">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg?v=oLBEjaJ9ag" color="#046c00">
+    <link rel="shortcut icon" href="/favicon.ico?v=oLBEjaJ9ag">
+    <meta name="apple-mobile-web-app-title" content="ScummVM">
+    <meta name="application-name" content="ScummVM">
+    <meta name="msapplication-TileColor" content="#cc6600">
+    <meta name="theme-color" content="#cc6600">
+    <meta name="fediverse:creator" content="@scummvm@manitu.social">
+    <!-- OpenGraph -->
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:title" content="ScummVM :: Home">
+    <meta property="og:description" content="ScummVM is a program which allows you to run certain classic graphical adventure and role-playing games, provided you already have their data files. The clever part about this: ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed! ScummVM is a complete rewrite of these games' executables and is not an emulator.">    <meta property="og:url" content="https://www.scummvm.org/images/screenshots/lucasarts/mi/mi_2_full.png">
+    <meta property="og:image" content="https://www.scummvm.org/images/og-image.jpg">
+    <link rel="canonical" href="https://www.scummvm.org/images/screenshots/lucasarts/mi/mi_2_full.png" />
+    <!-- Translations -->
+            <link rel="alternate" hreflang="ca" href="https://www.scummvm.org/ca/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="de" href="https://www.scummvm.org/de/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="el" href="https://www.scummvm.org/el/images/screenshots/lucasarts/mi/mi_2_full.png">
+                        <link rel="alternate" hreflang="es" href="https://www.scummvm.org/es/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="fi" href="https://www.scummvm.org/fi/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="fr" href="https://www.scummvm.org/fr/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="he" href="https://www.scummvm.org/he/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="hu" href="https://www.scummvm.org/hu/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="it" href="https://www.scummvm.org/it/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="ka" href="https://www.scummvm.org/ka/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="pt-BR" href="https://www.scummvm.org/pt-BR/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="pt-PT" href="https://www.scummvm.org/pt-PT/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="ru" href="https://www.scummvm.org/ru/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="sv" href="https://www.scummvm.org/sv/images/screenshots/lucasarts/mi/mi_2_full.png">
+                <link rel="alternate" hreflang="zh-Hans" href="https://www.scummvm.org/zh-Hans/images/screenshots/lucasarts/mi/mi_2_full.png">
+                    <link rel="stylesheet" href="/css/main_ltr.css?v=2.2.0">
+        
+</head>
+
+<body>
+    <input type="checkbox" autocomplete="off" id="nav-trigger" class="nav-trigger" />
+    <label for="nav-trigger"></label>
+
+    <div class="site-wrap">
+                <header class="site-header">
+            <div class="logo">
+                <img class="background hide-small" src="/images/maniac-half.png" alt="Maniac Mansion kids">
+                <a href="https://www.scummvm.org/">
+                    <img class="foreground" src="/images/scummvm_logo.png" alt="ScummVM Logo">
+                </a>
+            </div>
+            <div class="row top">
+                <div class="col-1-1">
+                    <img class="heroes hide-small" src="/images/heroes2.png" alt="Game characters">
+                </div>
+            </div>
+            <div class="row bottom hide-small">
+                <div class="col-1-1">
+                    <span class="scummvm float_right">Script Creation Utility for Maniac Mansion Virtual Machine</span>
+                </div>
+            </div>
+        </header>
+
+                <div class="container row">
+            <div class="col-4-5 col-sm-1">
+                <div class="content">
+                                                            
+<div id="intro_header">
+    <section class="round-box">
+            <header class="header">
+            What Is ScummVM?
+        </header>
+        <section class="content text row">
+            <div class="col-2-3 col-md-1">
+        <p>ScummVM is a program which allows you to run certain classic graphical adventure and role-playing games, provided you already have their data files. The clever part about this: ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed! ScummVM is a complete rewrite of these games' executables and is not an emulator.</p>
+        <p>ScummVM supports an extensive library of over 325 adventure games, including classic titles from iconic studios such as <em>LucasArts</em>, <em>Sierra On-Line</em>, <em>Revolution Software</em>, <em>Cyan, Inc.</em> and <em>Westwood Studios</em>. Alongside groundbreaking games like the <em>Monkey Island</em> series, <em>Broken Sword</em>, <em>Myst</em>, <em>Blade Runner</em> and numerous well-known titles, you can experience truly obscure adventures and discover hidden gems.</p>
+        <p>You can find a full list with details on which games are supported and how well on the <a href="/compatibility/">compatibility page</a>. ScummVM is continually improving, so check back often. Among the systems on which you can play those games are Windows, Linux, macOS, iOS, Android, PS Vita, Switch, Dreamcast, AmigaOS, Atari/FreeMiNT, RISC OS, Haiku, PSP, PS3, Maemo, GCW Zero and many more...</p>
+        <p>Our forum and <a href="https://discord.gg/4cDsMNtcpG">Discord Server</a>, are open for comments and suggestions. Please read our <a href="/faq/">FAQ</a> before posting.</p>
+        <form id="donate-header" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="U6E6SLL7E8MAS">
+            <input type="image" src="/images/ppdonate.png" style="width: 63px; height: 25px; border: 0 none;" align="right" name="submit" alt="Support This Project">
+        </form>
+        <p>You may support the project by expressing your excitement in the form of a donation via PayPal although we value code contributions considerably more.</p>
+    </div>
+    <div class="col-1-3 col-md-1">
+        
+<section class="round-box">
+        <section class="content gallery">
+        <div class="image">
+    <a href="/data/screenshots/sci/hoyle1/hoyle1_dos_en_1_1_full.png" title="Hoyle&#039;s Official Book of Games: Volume 1 (DOS/English)">
+        <img class="random-screenshot" src="/data/screenshots/sci/hoyle1/hoyle1_dos_en_1_1_full.png" alt="Hoyle&#039;s Official Book of Games: Volume 1 (DOS/English)">
+    </a>
+</div>
+<div class="caption">
+    <a href="compatibility/DEV/sci:hoyle1">Hoyle&#039;s Official Book of Games: Volume 1 (DOS/English)</a>
+</div>
+
+    </section>
+</section>
+
+<script>
+    window.addEventListener('DOMContentLoaded', function() {
+        baguetteBox.run('.gallery');
+    });
+</script>
+    </div>
+
+    </section>
+</section>
+</div>                    
+                                        <section class="round-box">
+            <header class="header">
+            Latest Developments
+        </header>
+        <section class="content">
+                            <article class="box" id="2026-10-02" >
+            <header class="head">
+                    <a href="https://www.scummvm.org/news/20261002/">
+            <span class="news-date">Oct 2, 2026</span>:
+            You always were a kidder, Steve
+        </a>
+    
+        </header>
+            <section class="content">
+                <div class="news-author">
+            Posted by alexbevi
+        </div>
+        <p><img src="https://www.scummvm.org/data/screenshots/harvester/harvester/harvester_dos_en_1_2.jpg" alt="Harvester screenshot" /></p>
+<p>The ScummVM Team is pleased to announce that <em>Harvester</em> is ready for public testing!</p>
+<p>You wake up in the small Texas farming town of Harvest. Who are you? How did you get here? Why does it seem to be the 1950s? What’s the Order of the Harvest Moon?</p>
+<p><em>Harvester</em> is an adventure/horror game, full of quirky characters, campy FMV cutscenes, B-list acting, real-time combat sequences and all the pixel-hunting goodness the genre is known for. Engage with the citizens of Harvest and uncover the town’s secrets as you attempt to gain access to the Lodge to uncover the truth.</p>
+<p>For this testing period, ScummVM supports the English, French and European versions. Once you’ve obtained a supported version, see the <a href="https://wiki.scummvm.org/index.php?title=Harvester">wiki</a> for guidance on extracting the necessary data files.</p>
+<p>Harvester depicts scenes of graphic violence, sex and gore, and may not be everyone’s cup of tea. If you’re not put off by this and want to help us test the games, start by grabbing a <a href="https://scummvm.org/downloads/#daily">daily build</a> and get playing! Don’t forget to read through our <a href="https://wiki.scummvm.org/index.php/Release_Testing#Testing_Guidelines">testing guidelines</a>, and please take some <a href="https://wiki.scummvm.org/index.php/Screenshots">screenshots</a> along the way.</p>
+    
+    </section>
+</article>
+                    <article class="box" id="2026-10-01" >
+            <header class="head">
+                    <a href="https://www.scummvm.org/news/20261001/">
+            <span class="news-date">Oct 1, 2026</span>:
+            Fool me Once, Shame on You...
+        </a>
+    
+        </header>
+            <section class="content">
+                <div class="news-author">
+            Posted by moralrecordings
+        </div>
+        <p><img src="https://www.scummvm.org/data/screenshots/fool/foolserrand/foolserrand_mac_en_1_3.jpg" alt="The Fool&#039;s Errand screenshot" /></p>
+<p>The ScummVM Team is pleased to announce that <em>The Fool's Errand</em> is ready for public testing!</p>
+<p><em>The Fool's Errand</em> is a critically-acclaimed narrative puzzle game based on characters and arcana from the tarot. Help the Fool as he uncovers the lost fourteen treasures of the world, averts all-out war between the four kingdoms, and defies the wrath of the evil High Priestess. Each puzzle solved reveals a new piece of the story, and builds to an overarching metapuzzle that ties all of the threads together.</p>
+<p>For this testing period, ScummVM supports the original Macintosh edition of the game - the ports for DOS, Amiga and Atari use a different engine and are not covered by this announcement. All known versions of the Macintosh edition should be supported and completable. But there's an old saying that a reverse engineer who hires themselves as a beta tester has a fool for a client, so don't take our word for it!</p>
+<p>Help us test the games by grabbing a <a href="https://scummvm.org/downloads/#daily">daily build</a>. Read through our <a href="https://wiki.scummvm.org/index.php/Release_Testing#Testing_Guidelines">testing guidelines</a>. And please take some <a href="https://wiki.scummvm.org/index.php/Screenshots">screenshots</a> along the way. The <a href="https://wiki.scummvm.org/index.php?title=The_Fool%27s_Errand">wiki page for the game</a> explains which files are needed and how to extract them.</p>
+<p>If you encounter any unexpected treachery, such as game-breaking bugs or a revision of the game which does not open in ScummVM, please report it on our <a href="https://bugs.scummvm.org/">issue tracker</a> following our <a href="https://www.scummvm.org/faq/#question.report-bugs">bug submission guidelines</a>.</p>
+    
+    </section>
+</article>
+                    <article class="box" id="2026-09-30" >
+            <header class="head">
+                    <a href="https://www.scummvm.org/news/20260930/">
+            <span class="news-date">Sep 30, 2026</span>:
+            White Birds, Dark Waters, and a Curse at the Louvre
+        </a>
+    
+        </header>
+            <section class="content">
+                <div class="news-author">
+            Posted by Scorp
+        </div>
+        <p><img src="https://www.scummvm.org/data/screenshots/phoenixvr/amerzone/amerzone_win_en_1_2.jpg" alt="Amerzone screenshot" /></p>
+<p>The ScummVM Team is pleased to announce that <em>Amerzone: The Explorer’s Legacy</em>, <em>The Cameron Files: The Secret at Loch Ness</em>, and <em>The Messenger</em> / <em>Louvre: The Final Curse</em> are ready for public testing!</p>
+<p>In <em>Amerzone: The Explorer’s Legacy</em>, an old explorer’s final wish sends a young journalist to a hidden land with some precious cargo: the stolen egg of the legendary White Birds. Sail, drive, and puzzle your way through Benoît Sokal’s world of strange wildlife, rusting machinery, and forgotten history.</p>
+<p><em>Loch Ness</em> takes private investigator Alan P. Cameron to the Scottish Highlands, where ghostly apparitions trouble Devil’s Ridge Manor—and his client has vanished. Search for clues, uncover a secret laboratory, and keep an eye on the loch. Some mysteries lurk beneath the surface.</p>
+<p>In <em>The Messenger</em>/ <em>Louvre: The Final Curse</em>, agent Morgane Sinclair must recover four dangerous artefacts before the Black Templars can unleash their power. Travel through different eras of the Louvre’s history, mixing modern gadgets with ancient magic. This museum visit comes with considerably more at stake than the admission fee.</p>
+<p>All three games run on the <em>PhoenixVR engine</em>, also used by <em>Dracula: Resurrection</em> and <em>Dracula 2: The Last Sanctuary</em>.</p>
+<p>Please note that only the Windows versions of these games are supported. The Macintosh and PSX versions use a different engine.</p>
+<p>To join the testing, grab a recent <a href="https://www.scummvm.org/downloads/#daily">daily development build</a> and your original game data files. Report any bugs on our <a href="https://bugs.scummvm.org/">issue tracker</a>, including your ScummVM version, game edition and language, and steps to reproduce the problem.</p>
+<p>Mind the egg, watch the water, and try not to end the world. Happy testing!</p>
+    
+    </section>
+</article>
+                    <article class="box" id="2026-09-28" >
+            <header class="head">
+                    <a href="https://www.scummvm.org/news/20260928/">
+            <span class="news-date">Sep 28, 2026</span>:
+            Four More Cases for Nancy Drew
+        </a>
+    
+        </header>
+            <section class="content">
+                <div class="news-author">
+            Posted by bluegr
+        </div>
+        <p><img src="https://www.scummvm.org/data/screenshots/nancy/nancy15/nancy15_win_en_1_0.jpg" alt="Nancy15 screenshot" /></p>
+<p>Grab your magnifying glass and pack your bags, because Nancy is back on the road! We are pleased to announce that ScummVM now supports four more titles from the <em>Nancy Drew</em> adventure game series, taking the famous detective from a charming 1930s country inn all the way to the volcanic slopes of Hawaii.</p>
+<p>In <em>Nancy Drew: Secret of the Old Clock</em>, Nancy visits the Lilac Inn, run by 17-year-old Emily Crandall. A kindly neighbor promised Emily his estate, but when he dies, his will leaves everything to someone else! Meanwhile, objects vanish and reappear, and whispers echo through the empty halls of the inn.</p>
+<p>In <em>Nancy Drew: Last Train to Blue Moon Canyon</em>, Nancy and the Hardy Boys join socialite Lori Girard on a train trip to solve a century-old mystery: the disappearance of the train's original owner, Jake Hurley, rumored to have found a fabulous gold mine. But as soon as the journey begins, Lori herself vanishes...</p>
+<p>In <em>Nancy Drew: Danger by Design</em>, Nancy goes undercover in Paris as an assistant to Minette, a couture fashion designer who has been throwing tantrums, firing her staff, and refusing to be seen without a mask covering her face. What is she hiding?</p>
+<p>In <em>Nancy Drew: The Creature of Kapu Cave</em>, Nancy arrives in Hawaii to assist entomologist Dr. Quigley Kim, only to find her camp ravaged and the doctor missing. Locals whisper that a legendary creature has awoken to prowl the island, and it's up to Nancy and the Hardy Boys to team up and crack the case.</p>
+<p>As usual, you will need the original game data files to play these games. The games are available for purchase through HeR Interactive's website or Steam. To play them with ScummVM, you will need a <a href="https://www.scummvm.org/downloads/#daily">daily development build</a>. If you encounter any issues, please submit a bug report to our <a href="https://bugs.scummvm.org/">issue tracker</a>, following our <a href="https://www.scummvm.org/faq/#question.report-bugs">bug submission guidelines</a>.</p>
+<p>The case files are open, and the clues are waiting. Happy investigating!</p>
+    
+    </section>
+</article>
+                    <article class="box" id="2026-09-22" >
+            <header class="head">
+                    <a href="https://www.scummvm.org/news/20260922/">
+            <span class="news-date">Sep 22, 2026</span>:
+            Detectives Wanted: Eagle Eye Mysteries Ready for Testing
+        </a>
+    
+        </header>
+            <section class="content">
+                <div class="news-author">
+            Posted by neuromancer
+        </div>
+        <p><img src="https://www.scummvm.org/data/screenshots/eem/eem/eem_dos_en_1_1.jpg" alt="Eagle Eye Mysteries screenshot" /></p>
+<p>The ScummVM Team is pleased to announce that <em>Eagle Eye Mysteries</em> and <em>Eagle Eye Mysteries in London</em> are ready for public testing!</p>
+<p>In each case, you accompany either Jake or Jennifer Eagle, the teenage twin detectives behind the Eagle Eye Detective Agency. Visit locations throughout Richview, question suspects, spot the details that don't quite fit, and record every clue in TRAVIS (Text Retrieval And Video Input System). Follow the evidence, identify the culprit, and solve the mystery. As you progress, cases become increasingly challenging, and each one can be replayed with a different outcome. </p>
+<p>In the sequel, the twins cross the Atlantic, leaving Richview behind for the streets of London and a fresh collection of increasingly difficult mysteries. The new cases revolve around a mysterious thief known as Macavity, whom you'll need to unmask before returning home.</p>
+<p>Published by EA*Kids and developed by Stormfront Studios, the Eagle Eye games sit in that rare corner of educational software that took its own genre seriously: a real deduction game, with suspects who lie, clues that only matter in hindsight, and mysteries that expect you to keep notes. Each case is self-contained, and there are plenty of them.</p>
+<p>For this testing period, ScummVM supports the <em>Eagle Eye Mysteries</em> DOS releases, in English and Spanish, and the Macintosh release and the <em>Eagle Eye Mysteries in London</em> DOS release. The Macintosh version of <em>Eagle Eye Mysteries in London</em> is still under development and is not part of this testing round.</p>
+<p>As usual, you will need the original game data files to play. To join the test, grab a recent <a href="https://www.scummvm.org/downloads/#daily">daily development build</a>, add your game directory to ScummVM, and play through the games. Please report any problems you encounter on our <a href="https://bugs.scummvm.org/">issue tracker</a>, following our <a href="https://www.scummvm.org/faq/#question.report-bugs">bug submission guidelines</a>. Screenshots and saved games demonstrating an issue are always helpful.</p>
+<p>The case files are open. Good luck, detective.</p>
+    
+    </section>
+</article>
+
+<p class="bottom-link">
+    <span class="feeds float_left">
+        <a href="/feeds/atom/">Atom</a> |
+        <a href="/feeds/rss/">RSS</a>
+    </span>
+    <a href="/news/archive/" class="float_right">More News...</a>
+</p>
+
+    </section>
+</section>
+                </div>
+            </div>
+
+                        <div class="col-1-5 col-sm-1">
+                <nav>
+            <dl>
+    <input type="checkbox" autocomplete="off" id="menu-main" class="menu-trigger" />
+    <dt>
+        <label for="menu-main">Main Menu</label>
+    </dt>
+                    <dd><span class="bullet"></span><a href="">Home</a></dd>
+                    <dd><span class="bullet"></span><a href="/screenshots/">Screenshots</a></dd>
+                    <dd><span class="bullet"></span><a href="https://forums.scummvm.org/">Forums</a></dd>
+                    <dd><span class="bullet"></span><a href="/downloads/">Downloads</a></dd>
+                    <dd><span class="bullet"></span><a href="/games/">Freeware Games &amp; Addons</a></dd>
+                    <dd><span class="bullet"></span><a href="/demos/">Demos</a></dd>
+                    <dd><span class="bullet"></span><a href="/demos/director">Director Demos</a></dd>
+                    <dd><span class="bullet"></span><a href="https://planet.scummvm.org">ScummVM Blogs</a></dd>
+                    <dd><span class="bullet"></span><a href="/dumper-companion">Dumper Companion</a></dd>
+    </dl>
+            <dl>
+    <input type="checkbox" autocomplete="off" id="menu-docs" class="menu-trigger" />
+    <dt>
+        <label for="menu-docs">Documentation</label>
+    </dt>
+                    <dd><span class="bullet"></span><a href="https://docs.scummvm.org/en/latest/help/faq.html">F.A.Q.</a></dd>
+                    <dd><span class="bullet"></span><a href="https://docs.scummvm.org">Documentation</a></dd>
+                    <dd><span class="bullet"></span><a href="/compatibility/">Compatibility</a></dd>
+                    <dd><span class="bullet"></span><a href="https://wiki.scummvm.org/">Wiki</a></dd>
+    </dl>
+            <dl>
+    <input type="checkbox" autocomplete="off" id="menu-sf" class="menu-trigger" />
+    <dt>
+        <label for="menu-sf">Development</label>
+    </dt>
+                    <dd><span class="bullet"></span><a href="https://wiki.scummvm.org/index.php?title=Developer_Central">Developer Central</a></dd>
+                    <dd><span class="bullet"></span><a href="https://bugs.scummvm.org/">Bug Tracker</a></dd>
+                    <dd><span class="bullet"></span><a href="https://translations.scummvm.org/projects/">Translations</a></dd>
+                    <dd><span class="bullet"></span><a href="/downloads/#daily">Daily Builds</a></dd>
+                    <dd><span class="bullet"></span><a href="https://github.com/scummvm/scummvm">GitHub</a></dd>
+                    <dd><span class="bullet"></span><a href="https://buildbot.scummvm.org/">Buildbot</a></dd>
+                    <dd><span class="bullet"></span><a href="https://doxygen.scummvm.org/">API Reference</a></dd>
+    </dl>
+            <dl>
+    <input type="checkbox" autocomplete="off" id="menu-misc" class="menu-trigger" />
+    <dt>
+        <label for="menu-misc">Misc. Menu</label>
+    </dt>
+                    <dd><span class="bullet"></span><a href="/sponsors/">Sponsors</a></dd>
+                    <dd><span class="bullet"></span><a href="/press/">Press Coverage</a></dd>
+                    <dd><span class="bullet"></span><a href="/contact/">Contact</a></dd>
+                    <dd><span class="bullet"></span><a href="/links/">Links</a></dd>
+                    <dd><span class="bullet"></span><a href="/credits/">Credits</a></dd>
+    </dl>
+    
+    <dl>
+    <input type="checkbox" autocomplete="off" id="menu-lang" class="menu-trigger" />
+    <dt>
+        <label for="menu-lang">Language</label>
+    </dt>
+                        <dd>
+                                    <span class="bullet"></span><a href="/ca/images/screenshots/lucasarts/mi/mi_2_full.png">català</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/de/images/screenshots/lucasarts/mi/mi_2_full.png">Deutsch</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/el/images/screenshots/lucasarts/mi/mi_2_full.png">Ελληνικά</a>
+                            </dd>
+                                            <dd>
+                                    <span class="bullet"></span><a href="/es/images/screenshots/lucasarts/mi/mi_2_full.png">español</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/fi/images/screenshots/lucasarts/mi/mi_2_full.png">suomi</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/fr/images/screenshots/lucasarts/mi/mi_2_full.png">français</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/he/images/screenshots/lucasarts/mi/mi_2_full.png">עברית</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/hu/images/screenshots/lucasarts/mi/mi_2_full.png">magyar</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/it/images/screenshots/lucasarts/mi/mi_2_full.png">italiano</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/ka/images/screenshots/lucasarts/mi/mi_2_full.png">ქართული</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/pt-BR/images/screenshots/lucasarts/mi/mi_2_full.png">português (Brasil)</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/pt-PT/images/screenshots/lucasarts/mi/mi_2_full.png">português (Portugal)</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/ru/images/screenshots/lucasarts/mi/mi_2_full.png">русский</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/sv/images/screenshots/lucasarts/mi/mi_2_full.png">svenska</a>
+                            </dd>
+                                <dd>
+                                    <span class="bullet"></span><a href="/zh-Hans/images/screenshots/lucasarts/mi/mi_2_full.png">中文（简体）</a>
+                            </dd>
+            </dl>
+    <dl>
+    <input type="checkbox" autocomplete="off" id="menu-theme" class="menu-trigger" />
+    <dt>
+        <label for="menu-theme">Theme</label>
+    </dt>
+            <dd>
+            <span class="bullet"></span><a href="#scumm" class="theme-link">SCUMM</a>
+        </dd>
+            <dd>
+            <span class="bullet"></span><a href="#residual" class="theme-link">Residual</a>
+        </dd>
+            <dd>
+            <span class="bullet"></span><a href="#retro" class="theme-link">Retro</a>
+        </dd>
+    </dl>
+</nav>
+
+<div class="menu-bottom hide-small">
+    <img src="/images/hangmonk.gif" alt="monkey" class="monkey float_right">
+    <div class="banners">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="U6E6SLL7E8MAS">
+        <input type="image" src="/images/ppdonate.png" style="width: 88px; height: 35px; border: 0 none;" name="submit" alt="Support This Project">
+    </form>
+
+    <a href="https://www.zoom-platform.com/?affiliate=c049516c-9c4c-42d6-8649-92ed870e8b53">
+        <img src="/images/ZOOM_button_small.png" width="88" height="32">
+    </a>
+    <a href="https://github.com/scummvm">
+        <img src="/images/github-logo.png" alt="ScummVM on GitHub" width="88" height="32">
+    </a>
+
+    <a href="https://www.facebook.com/pages/ScummVM/7328341409">
+        <img src="/images/facebook.png" width="88" height="32" alt="Join us on Facebook">
+    </a>
+
+    <a href="https://twitter.com/ScummVM">
+        <img src="/images/twitter.png" width="88" height="32" alt="Follow us on Twitter">
+    </a>
+</div>
+</div>
+            </div>
+        </div>
+        <footer class="row">
+            <div class="col-4-5 col-sm-1">
+                LucasArts, Monkey Island, Maniac Mansion, Full Throttle, The Dig, LOOM, and probably lots of other things are registered trademarks of <a href="http://www.lucasarts.com/">LucasArts, Inc.</a>. Raspberry Pi is a trademark of Raspberry Pi Trading. All other trademarks and registered trademarks are owned by their respective companies. ScummVM is not affiliated in any way with LucasArts, Inc.
+            </div>
+            <div class="col-1-5 hide-small">
+                <div class="tentacle">
+                    <img src="/images/tentacle.svg" alt="Tentacle">
+                </div>
+            </div>
+        </footer>
+    </div>
+
+        <script src="/js/baguetteBox.min.js"></script>
+    
+    <script>
+        document.querySelector('.nav-trigger').addEventListener('change', function() {
+            if (this.checked)
+                document.body.classList.add('no-scroll');
+            else
+                document.body.classList.remove('no-scroll');
+        });
+
+        for (var link of document.querySelectorAll('nav a.theme-link')) {
+            link.addEventListener('click', function(evt) {
+                evt.preventDefault();
+                if (!evt.target.href.indexOf('#')) return;
+                var theme = evt.target.href.split('#')[1];
+                document.querySelector('html').className = 'theme-' + theme;
+                localStorage.setItem('theme', theme);
+            })
+        }
+
+        window.addEventListener('DOMContentLoaded', function() {
+            var theme = localStorage.getItem('theme');
+            if (theme) {
+                document.querySelector('html').className = 'theme-' + theme;
+            }
+        })
+    </script>
+
+    <footer>
+
+        <!-- Mastodon verification -->
+        <a rel="me" href="https://manitu.social/@scummvm"></a>
+
+    </footer>
+</body>
+
+</html>

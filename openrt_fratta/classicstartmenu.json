@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Classic_Shell_logo.png/256px-Classic_Shell_logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/Open-Shell/Open-Shell-Menu/master/Src/StartMenu/StartMenu.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Classic_Shell_4.2.5_Windows_10.png/800px-Classic_Shell_4.2.5_Windows_10.png",
+    "https://upload.wikimedia.org/wikipedia/commons/2/23/Classic_Shell_4.2.5_Windows_10.png",
     "https://www.classicshell.net/images/classicshell.jpg"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/ClassicStartMenu.zip",

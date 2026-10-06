@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Paint.NET_icon.png",
+  "iconUrl": "https://raw.githubusercontent.com/paintdotnet/release/master/PaintDotNet.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Paint.NET_4.0_screenshot.png/800px-Paint.NET_4.0_screenshot.png",
+    "https://upload.wikimedia.org/wikipedia/en/5/5e/Paint.NET_4.0_screenshot.png",
     "https://www.getpaint.net/images/pdn4_1.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/Paint.NET.zip",

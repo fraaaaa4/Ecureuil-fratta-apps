@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/256px-FileZilla_logo.svg.png",
+  "iconUrl": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/filezilla-logo.png",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/FileZilla_3.33.0_screenshot.png/800px-FileZilla_3.33.0_screenshot.png",
+    "https://upload.wikimedia.org/wikipedia/commons/5/59/FileZilla_3.33.0_screenshot.png",
     "https://filezilla-project.org/images/screenshots/fz3_win.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/filezilla_3.6.0.2_arm.7z",

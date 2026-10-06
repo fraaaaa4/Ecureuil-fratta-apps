@@ -30,7 +30,7 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Moonlight_Logo.png/256px-Moonlight_Logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/moonlight-stream/moonlight-qt/master/app/gui/res/moonlight.ico",
   "screenshots": [
     "https://moonlight-stream.org/images/moonlight-pc-app.png",
     "https://moonlight-stream.org/images/moonlight-mobile-app.png"

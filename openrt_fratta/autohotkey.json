@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/AutoHotkey_logo.png/256px-AutoHotkey_logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/AutoHotkey/AutoHotkey/master/Template.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AutoHotkey_Window_Spy.png/800px-AutoHotkey_Window_Spy.png",
+    "https://upload.wikimedia.org/wikipedia/commons/4/4c/AutoHotkey_Window_Spy.png",
     "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ahk_script.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/AutoHotkey.zip",

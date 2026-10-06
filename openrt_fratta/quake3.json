@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Quake_III_Arena_logo.png/256px-Quake_III_Arena_logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/ioquake/ioq3/master/misc/setup/ioq3.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Quake_3_Arena_q3dm6_Screenshot.png/800px-Quake_3_Arena_q3dm6_Screenshot.png",
+    "https://upload.wikimedia.org/wikipedia/en/f/fa/Quake_3_Arena_q3dm6_Screenshot.png",
     "https://upload.wikimedia.org/wikipedia/en/c/ca/Quake_3_Arena_q3dm17_Screenshot.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/Quake3.zip",

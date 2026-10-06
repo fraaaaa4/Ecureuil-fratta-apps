@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mpv_logo.png/256px-Mpv_logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/mpv-player/mpv/master/osdep/mpv.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mpv-0.32.0.png/800px-Mpv-0.32.0.png"
+    "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mpv-0.32.0.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/mpv-2.0-winarm32.zip",
   "language": [

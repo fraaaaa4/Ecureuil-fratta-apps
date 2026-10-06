@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/WinDirStat_Icon.png/256px-WinDirStat_Icon.png",
+  "iconUrl": "https://raw.githubusercontent.com/windirstat/windirstat/master/windirstat/res/icon1.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WinDirStat_Screenshot.png/800px-WinDirStat_Screenshot.png",
+    "https://upload.wikimedia.org/wikipedia/commons/c/cd/WinDirStat_Screenshot.png",
     "https://windirstat.net/images/windirstat-main.jpg"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/WinDirStat-arm.msi",

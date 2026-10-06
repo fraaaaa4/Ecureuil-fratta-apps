@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Duke_Nukem_3D_logo.png/256px-Duke_Nukem_3D_logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/chocolate-doom/chocolate-doom/master/data/doom.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Duke_Nukem_3D_Screenshot.png/800px-Duke_Nukem_3D_Screenshot.png",
+    "https://upload.wikimedia.org/wikipedia/en/8/87/Duke_Nukem_3D_Screenshot.png",
     "https://www.dosbox.com/comp_list/images/duke3d.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/ChocolateDuke3D.zip",

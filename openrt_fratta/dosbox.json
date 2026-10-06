@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DOSBox_logo.png/256px-DOSBox_logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/dosbox-staging/dosbox-staging/main/src/gui/dosbox.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DOSBox_0.74_Windows.png/800px-DOSBox_0.74_Windows.png"
+    "https://upload.wikimedia.org/wikipedia/commons/4/4c/DOSBox_0.74_Windows.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/dosbox2.zip",
   "language": [

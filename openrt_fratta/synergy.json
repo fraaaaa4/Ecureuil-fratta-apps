@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Synergy_Logo.png/256px-Synergy_Logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/symless/synergy-core/master/res/synergy.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Synergy_1.4.15_Windows.png/800px-Synergy_1.4.15_Windows.png"
+    "https://upload.wikimedia.org/wikipedia/commons/5/58/Synergy_1.4.15_Windows.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/synergy_1.4.12_beta_arm.7z",
   "language": [

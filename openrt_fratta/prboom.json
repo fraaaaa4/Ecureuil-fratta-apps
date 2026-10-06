@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Doom_logo.png/256px-Doom_logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/coelckers/prboom-plus/master/prboom2/src/MAC/PrBoom.icns",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PrBoom.png/800px-PrBoom.png"
+    "https://upload.wikimedia.org/wikipedia/commons/5/5a/PrBoom.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/prboom_arm.7z",
   "language": [

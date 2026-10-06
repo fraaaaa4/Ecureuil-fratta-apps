@@ -30,7 +30,7 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TightVNC_logo.png/256px-TightVNC_logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/TightVNC/tightvnc-java/master/src/main/resources/com/glavsoft/viewer/images/vnc-logo-256x256.png",
   "screenshots": [
     "https://www.tightvnc.com/img/screen-viewer-1.png",
     "https://www.tightvnc.com/img/screen-server-1.png"

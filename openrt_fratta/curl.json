@@ -30,10 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Curl-logo.png/256px-Curl-logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/curl/curl/master/docs/favicon.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Curl-screenshot.png/800px-Curl-screenshot.png",
-    "https://curl.se/logo/curl-symbol.png"
+    "https://upload.wikimedia.org/wikipedia/commons/0/05/Curl-screenshot.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/curl-7.70.0-winarm32.zip",
   "language": [

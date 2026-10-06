@@ -30,10 +30,8 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Greenshot_Logo.png/256px-Greenshot_Logo.png",
-  "screenshots": [
-    "https://getgreenshot.org/assets/images/greenshot-editor-2012.png"
-  ],
+  "iconUrl": "https://raw.githubusercontent.com/greenshot/greenshot/master/Greenshot/Icons/Greenshot.ico",
+  "screenshots": [],
   "downloadUrl": "https://files.open-rt.party/Software/Greenshot_0.7.009_AnyCPU.7z",
   "language": [
     "en-US"

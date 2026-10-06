@@ -30,9 +30,9 @@
     "10",
     "11"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Qbittorrent_logo.svg/256px-Qbittorrent_logo.svg.png",
+  "iconUrl": "https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/src/icons/qBittorrent.ico",
   "screenshots": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Qbittorrent_4.1.5_on_Windows_10.png/800px-Qbittorrent_4.1.5_on_Windows_10.png",
+    "https://upload.wikimedia.org/wikipedia/commons/3/30/Qbittorrent_4.1.5_on_Windows_10.png",
     "https://www.qbittorrent.org/img/screenshots/qbittorrent_main_window.png"
   ],
   "downloadUrl": "https://files.open-rt.party/Software/qBittorrent-4.5.0alpha1.zip",
