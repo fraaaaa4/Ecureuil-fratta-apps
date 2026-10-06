@@ -1,0 +1,43 @@
+{
+  "id": "duke3d",
+  "name": "Chocolate Duke3D",
+  "version": "1.0",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Software",
+  "description": "Duke Nukem 3D is an iconic first-person shooter video game developed by 3D Realms. This Chocolate Doom-style source port for ARM32 allows you to experience the classic game natively, maintaining the exact behavior and feel of the original MS-DOS release.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "983756",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "chocolate-duke3d.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Duke_Nukem_3D_logo.png/256px-Duke_Nukem_3D_logo.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Duke_Nukem_3D_Screenshot.png/800px-Duke_Nukem_3D_Screenshot.png",
+    "https://www.dosbox.com/comp_list/images/duke3d.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/ChocolateDuke3D.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

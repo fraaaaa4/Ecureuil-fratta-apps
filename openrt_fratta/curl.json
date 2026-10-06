@@ -1,0 +1,43 @@
+{
+  "id": "curl",
+  "name": "cURL",
+  "version": "7.70",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Software",
+  "description": "cURL is used in command lines or scripts to transfer data using various network protocols like HTTP, HTTPS, and FTP. It is a fundamental tool for developers and system administrators for testing APIs, downloading files, and debugging network issues from the command line.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "291737",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "curl.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Curl-logo.png/256px-Curl-logo.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Curl-screenshot.png/800px-Curl-screenshot.png",
+    "https://curl.se/logo/curl-symbol.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/curl-7.70.0-winarm32.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

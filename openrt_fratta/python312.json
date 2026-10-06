@@ -1,0 +1,47 @@
+{
+  "id": "python312",
+  "name": "Python",
+  "version": "3.12.4",
+  "author": "Python Software Foundation",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Development",
+  "description": "Python is a widely used high-level programming language that lets you work quickly and integrate systems more effectively. This is the official installer for Windows ARM32, providing the complete Python environment, IDLE, and pip to run your favorite scripts and development projects locally.",
+  "dateOriginal": "2024-07-15",
+  "dateSource": "2026-10-06",
+  "size": "25899827",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically execute the setup installer."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://www.python.org/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [
+    "/quiet",
+    "InstallAllUsers=1",
+    "PrependPath=1"
+  ],
+  "DownloadPath": "python-3.12.4-arm.exe",
+  "fileType": "exe",
+  "uninstallParameters": [],
+  "isPortable": false,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/256px-Python-logo-notext.svg.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Python_IDLE_Screenshot.png/800px-Python_IDLE_Screenshot.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/800px-Python_logo_and_wordmark.svg.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/python-3.12.4-arm.exe",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

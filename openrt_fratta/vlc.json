@@ -1,0 +1,43 @@
+{
+  "id": "vlc",
+  "name": "VLC Media Player",
+  "version": "3.0.20",
+  "author": "VideoLAN",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Multimedia",
+  "description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. This specific port brings full local video and audio playback capabilities to Windows ARM, supporting a wide array of codecs out of the box.",
+  "dateOriginal": "2024-06-09",
+  "dateSource": "2026-10-06",
+  "size": "25270681",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://www.videolan.org/vlc/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "vlc.exe",
+  "fileType": "7z",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/150px-VLC_Icon.svg.png",
+  "screenshots": [
+    "https://www.videolan.org/vlc/screenshots/vlc-windows-10.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/VLC_media_player_3.0.8_on_Windows_10.png/800px-VLC_media_player_3.0.8_on_Windows_10.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/vlc-3.0.20-Windows_11_ARM.7z",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": "paintdotnet",
+  "name": "Paint.NET",
+  "version": "3.36",
+  "author": "dotPDN LLC",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Multimedia",
+  "description": "Paint.NET is image and photo editing software for PCs that run Windows. It features an intuitive and innovative user interface with support for layers, unlimited undo, special effects, and a wide variety of useful and powerful tools. It bridges the gap between MS Paint and advanced editors like Photoshop.",
+  "dateOriginal": "2021-10-17",
+  "dateSource": "2026-10-06",
+  "size": "1153433",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://www.getpaint.net/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "PaintDotNet.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Paint.NET_icon.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Paint.NET_4.0_screenshot.png/800px-Paint.NET_4.0_screenshot.png",
+    "https://www.getpaint.net/images/pdn4_1.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/Paint.NET.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

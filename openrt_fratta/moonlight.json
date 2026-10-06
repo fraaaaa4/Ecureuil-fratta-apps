@@ -1,0 +1,43 @@
+{
+  "id": "moonlight",
+  "name": "Moonlight",
+  "version": "1.0",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Software",
+  "description": "Moonlight allows you to stream your collection of games from your GameStream-compatible PC to any supported device and play them remotely. Moonlight is perfect for enjoying AAA PC gaming on the go with your ARM32 tablet, without sacrificing graphics and game selection.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "29884416",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "Moonlight.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Moonlight_Logo.png/256px-Moonlight_Logo.png",
+  "screenshots": [
+    "https://moonlight-stream.org/images/moonlight-pc-app.png",
+    "https://moonlight-stream.org/images/moonlight-mobile-app.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/Moonlight-winarm32.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

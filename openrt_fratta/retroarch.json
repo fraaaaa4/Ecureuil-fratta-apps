@@ -1,0 +1,43 @@
+{
+  "id": "retroarch",
+  "name": "RetroArch",
+  "version": "1.10",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Software",
+  "description": "RetroArch is a powerful frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of consoles through its slick graphical interface. With this ARM port, your device becomes the ultimate portable retro gaming machine.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "9856614",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "retroarch.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/RetroArch_logo.png/256px-RetroArch_logo.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/RetroArch_1.7.5_XMB.png/800px-RetroArch_1.7.5_XMB.png",
+    "https://www.retroarch.com/assets/images/retroarch-ozone-screenshot.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/RetroArch-20240609T152111Z-001.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

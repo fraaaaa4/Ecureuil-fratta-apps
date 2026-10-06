@@ -1,0 +1,43 @@
+{
+  "id": "windirstat",
+  "name": "WinDirStat",
+  "version": "1.1.2",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Software",
+  "description": "WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows. It shows exactly where your disk space has gone with a colorful interactive treemap, helping you easily identify and delete large files to free up space on your device.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "2516582",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically execute the setup installer."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "WinDirStat-arm.msi",
+  "fileType": "msi",
+  "uninstallParameters": [],
+  "isPortable": false,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/WinDirStat_Icon.png/256px-WinDirStat_Icon.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WinDirStat_Screenshot.png/800px-WinDirStat_Screenshot.png",
+    "https://windirstat.net/images/windirstat-main.jpg"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/WinDirStat-arm.msi",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

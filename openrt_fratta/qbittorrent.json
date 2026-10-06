@@ -1,0 +1,43 @@
+{
+  "id": "qbittorrent",
+  "name": "qBittorrent",
+  "version": "4.5.0 alpha1",
+  "author": "The qBittorrent project",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Network",
+  "description": "The qBittorrent project aims to provide an open-source software alternative to \u00b5Torrent. It features a clean, ad-free interface, an integrated search engine, RSS support, and full encryption capabilities. This build allows robust and lightweight torrent downloading natively on ARM32.",
+  "dateOriginal": "2022-06-30",
+  "dateSource": "2026-10-06",
+  "size": "22649241",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://www.qbittorrent.org/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "qbittorrent.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Qbittorrent_logo.svg/256px-Qbittorrent_logo.svg.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Qbittorrent_4.1.5_on_Windows_10.png/800px-Qbittorrent_4.1.5_on_Windows_10.png",
+    "https://www.qbittorrent.org/img/screenshots/qbittorrent_main_window.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/qBittorrent-4.5.0alpha1.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": "audacity",
+  "name": "Audacity",
+  "version": "2.x",
+  "author": "The Audacity Team",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Multimedia",
+  "description": "Audacity is an easy-to-use, multi-track audio editor and recorder. You can use Audacity to record live audio, convert tapes and records into digital recordings, edit WAV, AIFF, FLAC, MP2, MP3 or Ogg Vorbis sound files. It's a fully featured audio workstation now accessible on your Windows RT / ARM32 machine.",
+  "dateOriginal": "2021-10-17",
+  "dateSource": "2026-10-06",
+  "size": "4718592",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://www.audacityteam.org/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "audacity.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Audacity_Logo_2021.svg/150px-Audacity_Logo_2021.svg.png",
+  "screenshots": [
+    "https://www.audacityteam.org/wp-content/uploads/2022/10/screenshot-editing-1024x609.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Audacity_2.3.2.png/800px-Audacity_2.3.2.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/Audacity.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

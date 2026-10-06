@@ -1,0 +1,43 @@
+{
+  "id": "kodi",
+  "name": "Kodi",
+  "version": "20.90",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Software",
+  "description": "Kodi is a free and open-source media player software application developed by the XBMC Foundation. Designed as a complete media center, it allows you to organize and play your local videos, music, and podcasts with a beautiful '10-foot user interface' perfect for TVs and tablets.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "117546188",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "kodi.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kodi-logo-Thumbnail.png/256px-Kodi-logo-Thumbnail.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kodi_17.0_Krypton_Estuary_home_screen.png/800px-Kodi_17.0_Krypton_Estuary_home_screen.png",
+    "https://kodi.tv/images/carousel/tv-shows.jpg"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/Kodi.Nexus.20.90.125.0_ARM.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

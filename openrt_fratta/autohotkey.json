@@ -1,0 +1,43 @@
+{
+  "id": "autohotkey",
+  "name": "AutoHotkey",
+  "version": "1.1",
+  "author": "Open Source Community",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Software",
+  "description": "AutoHotkey is a free, open-source scripting language for Windows that allows users to easily create small to complex scripts. You can use it to map custom keyboard shortcuts, automate repetitive clicking tasks, or build lightweight automation tools directly on Windows RT.",
+  "dateOriginal": "2024-01-01",
+  "dateSource": "2026-10-06",
+  "size": "444825",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://open-rt.party/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "AutoHotkey.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/AutoHotkey_logo.png/256px-AutoHotkey_logo.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AutoHotkey_Window_Spy.png/800px-AutoHotkey_Window_Spy.png",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ahk_script.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/AutoHotkey.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

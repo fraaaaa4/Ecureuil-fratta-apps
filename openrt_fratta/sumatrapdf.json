@@ -1,0 +1,43 @@
+{
+  "id": "sumatrapdf",
+  "name": "Sumatra PDF",
+  "version": "Latest",
+  "author": "Krzysztof Kowalczyk",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Productivity",
+  "description": "Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows. It is small, portable and starts up very fast. The minimalistic interface prioritizes the reading experience, making it the perfect document viewer for ARM tablets.",
+  "dateOriginal": "2021-10-17",
+  "dateSource": "2026-10-06",
+  "size": "5347737",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://www.sumatrapdfreader.org/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "SumatraPDF.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Sumatra_PDF_logo.svg/256px-Sumatra_PDF_logo.svg.png",
+  "screenshots": [
+    "https://www.sumatrapdfreader.org/docs/images/sumatra-1.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sumatra_PDF_3.1.2_Windows_10.png/800px-Sumatra_PDF_3.1.2_Windows_10.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/SumatraPDF.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

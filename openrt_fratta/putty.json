@@ -1,0 +1,43 @@
+{
+  "id": "putty",
+  "name": "PuTTY",
+  "version": "0.76",
+  "author": "Simon Tatham",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Utilities",
+  "description": "PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection. It is the perfect lightweight tool for developers who need to manage remote servers directly from their ARM32 devices.",
+  "dateOriginal": "2021-07-10",
+  "dateSource": "2026-10-06",
+  "size": "3040870",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://www.chiark.greenend.org.uk/~sgtatham/putty/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "putty.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/PuTTY_icon_128px.png/120px-PuTTY_icon_128px.png",
+  "screenshots": [
+    "https://www.chiark.greenend.org.uk/~sgtatham/putty/screenshot.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PuTTY_0.71_on_Windows_10.png/800px-PuTTY_0.71_on_Windows_10.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/putty.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

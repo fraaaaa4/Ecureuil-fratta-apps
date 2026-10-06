@@ -1,0 +1,43 @@
+{
+  "id": "notepadpp",
+  "name": "Notepad++",
+  "version": "6.5.1a",
+  "author": "Don Ho",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Development",
+  "description": "Notepad++ is a free source code editor and Notepad replacement that supports several languages. It features syntax highlighting, code folding, and an extensible plugin system. This ARM32 build allows you to comfortably edit configuration files, write code, or just take quick notes with a powerful tabbed interface.",
+  "dateOriginal": "2021-10-17",
+  "dateSource": "2026-10-06",
+  "size": "3460300",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://notepad-plus-plus.org/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "notepad++.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png",
+  "screenshots": [
+    "https://notepad-plus-plus.org/assets/images/npp-screenshot.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Notepad%2B%2B_7.6.6_Windows_10.png/800px-Notepad%2B%2B_7.6.6_Windows_10.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/Notepad%2B%2B%206.5.1a.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

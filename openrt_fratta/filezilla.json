@@ -1,0 +1,43 @@
+{
+  "id": "filezilla",
+  "name": "FileZilla",
+  "version": "3.6.0.2",
+  "author": "Tim Kosse",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Network",
+  "description": "FileZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface. It simplifies the process of transferring files to and from web servers, making it an essential networking tool.",
+  "dateOriginal": "2021-10-17",
+  "dateSource": "2026-10-06",
+  "size": "2097152",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://filezilla-project.org/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "filezilla.exe",
+  "fileType": "7z",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/256px-FileZilla_logo.svg.png",
+  "screenshots": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/FileZilla_3.33.0_screenshot.png/800px-FileZilla_3.33.0_screenshot.png",
+    "https://filezilla-project.org/images/screenshots/fz3_win.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/filezilla_3.6.0.2_arm.7z",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

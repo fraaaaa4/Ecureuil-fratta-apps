@@ -1,0 +1,47 @@
+{
+  "id": "7zip",
+  "name": "7-Zip",
+  "version": "24.07",
+  "author": "Igor Pavlov",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Utilities",
+  "description": "7-Zip is a file archiver with a high compression ratio. It supports 7z, XZ, BZIP2, GZIP, TAR, ZIP, WIM, and many other formats. This version is natively compiled for Windows ARM, providing excellent performance for extracting and creating archives on your ARM32 device. It is an absolute must-have utility.",
+  "dateOriginal": "2024-07-31",
+  "dateSource": "2026-10-06",
+  "size": "1677721",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically execute the setup installer."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://www.7-zip.org/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [
+    "/S"
+  ],
+  "DownloadPath": "7z2407-arm.exe",
+  "fileType": "exe",
+  "uninstallParameters": [
+    "/S"
+  ],
+  "isPortable": false,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/7-zip_logo.svg/256px-7-zip_logo.svg.png",
+  "screenshots": [
+    "https://www.7-zip.org/7zippng.png",
+    "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/7-Zip_19.00.png/300px-7-Zip_19.00.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/7z2407-arm.exe",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": "scummvm",
+  "name": "ScummVM",
+  "version": "2.6.1",
+  "author": "ScummVM Team",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Games",
+  "description": "ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. Enjoy legendary classics from LucasArts, Sierra, and more right on your ARM32 device, reviving the golden age of adventure games.",
+  "dateOriginal": "2026-05-03",
+  "dateSource": "2026-10-06",
+  "size": "78643200",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://www.scummvm.org/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "scummvm.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ScummVM_Logo.png/256px-ScummVM_Logo.png",
+  "screenshots": [
+    "https://www.scummvm.org/images/screenshots/lucasarts/mi/mi_2_full.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Scummvm-gui-2.1.2-windows.png/800px-Scummvm-gui-2.1.2-windows.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/scummvm-2.6.1-winarm32.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}

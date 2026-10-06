@@ -1,0 +1,43 @@
+{
+  "id": "everything",
+  "name": "Everything",
+  "version": "1.4.1.1026",
+  "author": "voidtools",
+  "uploader": "fratta",
+  "source": "openrt_fratta",
+  "category": "Utilities",
+  "description": "Everything is a search engine that locates files and folders by filename instantly for Windows. Unlike standard Windows search, Everything initially displays every file and folder on your computer and updates in real-time. It is incredibly fast, lightweight, and uses minimal system resources.",
+  "dateOriginal": "2024-08-01",
+  "dateSource": "2026-10-06",
+  "size": "1782579",
+  "dependencies": [],
+  "instructionSteps": [
+    "Ecureuil will automatically copy the portable files."
+  ],
+  "isImmersive": false,
+  "links": [
+    "https://www.voidtools.com/"
+  ],
+  "architecture": "arm32",
+  "installParameters": [],
+  "DownloadPath": "Everything.exe",
+  "fileType": "zip",
+  "uninstallParameters": [],
+  "isPortable": true,
+  "compatibility": [
+    "8.0",
+    "8.1",
+    "10",
+    "11"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Everything_icon.png",
+  "screenshots": [
+    "https://www.voidtools.com/Everything.png",
+    "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Everything_search_engine_1.4.1.png/300px-Everything_search_engine_1.4.1.png"
+  ],
+  "downloadUrl": "https://files.open-rt.party/Software/Everything-1.4.1.1026.ARM.zip",
+  "language": [
+    "en-US"
+  ],
+  "isTrial": false
+}
