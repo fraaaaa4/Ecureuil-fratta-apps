@@ -498,5 +498,1380 @@
       "en-US"
     ],
     "isTrial": false
+  },
+  {
+    "id": "7zip",
+    "name": "7-Zip",
+    "version": "24.07",
+    "author": "Igor Pavlov",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Utilities",
+    "description": "7-Zip is a file archiver with a high compression ratio. It supports 7z, XZ, BZIP2, GZIP, TAR, ZIP, WIM, and many other formats. This version is natively compiled for Windows ARM, providing excellent performance for extracting and creating archives on your ARM32 device. It is an absolute must-have utility.",
+    "dateOriginal": "2024-07-31",
+    "dateSource": "2026-10-06",
+    "size": "1677721",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically execute the setup installer."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.7-zip.org/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [
+      "/S"
+    ],
+    "DownloadPath": "7z2407-arm.exe",
+    "fileType": "exe",
+    "uninstallParameters": [
+      "/S"
+    ],
+    "isPortable": false,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/7-zip_logo.svg/256px-7-zip_logo.svg.png",
+    "screenshots": [
+      "https://www.7-zip.org/7zippng.png",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/7-Zip_19.00.png/300px-7-Zip_19.00.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/7z2407-arm.exe",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "audacity",
+    "name": "Audacity",
+    "version": "2.x",
+    "author": "The Audacity Team",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Multimedia",
+    "description": "Audacity is an easy-to-use, multi-track audio editor and recorder. You can use Audacity to record live audio, convert tapes and records into digital recordings, edit WAV, AIFF, FLAC, MP2, MP3 or Ogg Vorbis sound files. It's a fully featured audio workstation now accessible on your Windows RT / ARM32 machine.",
+    "dateOriginal": "2021-10-17",
+    "dateSource": "2026-10-06",
+    "size": "4718592",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.audacityteam.org/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "audacity.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Audacity_Logo_2021.svg/150px-Audacity_Logo_2021.svg.png",
+    "screenshots": [
+      "https://www.audacityteam.org/wp-content/uploads/2022/10/screenshot-editing-1024x609.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Audacity_2.3.2.png/800px-Audacity_2.3.2.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/Audacity.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "autohotkey",
+    "name": "AutoHotkey",
+    "version": "1.1",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Utilities",
+    "description": "AutoHotkey is a free, open-source scripting language for Windows that allows users to easily create small to complex scripts. You can use it to map custom keyboard shortcuts, automate repetitive clicking tasks, or build lightweight automation tools directly on Windows RT.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "444825",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "AutoHotkey.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/AutoHotkey_logo.png/256px-AutoHotkey_logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AutoHotkey_Window_Spy.png/800px-AutoHotkey_Window_Spy.png",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ahk_script.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/AutoHotkey.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "chromium",
+    "name": "Chromium Beta",
+    "version": "88",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Network",
+    "description": "Chromium is a free and open-source web browser project, principally developed and maintained by Google. Having a modern browser port for ARM32 is an absolute game changer, allowing you to browse modern web pages on older Windows RT devices.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "48129638",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically execute the setup installer."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "chromium-winarm32-beta.exe",
+    "fileType": "exe",
+    "uninstallParameters": [],
+    "isPortable": false,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/256px-Chromium_Logo.svg.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chromium_79_on_Windows_10.png/800px-Chromium_79_on_Windows_10.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/chromium-winarm32-beta.exe",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "classicstartmenu",
+    "name": "Classic Start Menu",
+    "version": "4.2",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Utilities",
+    "description": "Classic Start Menu (Open-Shell) is a computer program that provides replacements for the Windows Start menu, File Explorer, and Internet Explorer. For users missing the traditional Windows 7-style start menu on Windows 8/RT, this restores the classic functionality and look.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "1153433",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "ClassicStartMenu.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Classic_Shell_logo.png/256px-Classic_Shell_logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Classic_Shell_4.2.5_Windows_10.png/800px-Classic_Shell_4.2.5_Windows_10.png",
+      "https://www.classicshell.net/images/classicshell.jpg"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/ClassicStartMenu.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "curl",
+    "name": "cURL",
+    "version": "7.70",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Development",
+    "description": "cURL is used in command lines or scripts to transfer data using various network protocols like HTTP, HTTPS, and FTP. It is a fundamental tool for developers and system administrators for testing APIs, downloading files, and debugging network issues from the command line.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "291737",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "curl.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Curl-logo.png/256px-Curl-logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Curl-screenshot.png/800px-Curl-screenshot.png",
+      "https://curl.se/logo/curl-symbol.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/curl-7.70.0-winarm32.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "dosbox",
+    "name": "DOSBox",
+    "version": "0.74",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Games",
+    "description": "DOSBox is an emulator program that emulates an IBM PC compatible computer running a DOS operating system. It allows you to run classic MS-DOS games and software seamlessly on your ARM device.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "782745",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "DOSBox.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DOSBox_logo.png/256px-DOSBox_logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DOSBox_0.74_Windows.png/800px-DOSBox_0.74_Windows.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/dosbox2.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "duke3d",
+    "name": "Chocolate Duke3D",
+    "version": "1.0",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Games",
+    "description": "Duke Nukem 3D is an iconic first-person shooter video game developed by 3D Realms. This Chocolate Doom-style source port for ARM32 allows you to experience the classic game natively, maintaining the exact behavior and feel of the original MS-DOS release.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "983756",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "chocolate-duke3d.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Duke_Nukem_3D_logo.png/256px-Duke_Nukem_3D_logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Duke_Nukem_3D_Screenshot.png/800px-Duke_Nukem_3D_Screenshot.png",
+      "https://www.dosbox.com/comp_list/images/duke3d.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/ChocolateDuke3D.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "everything",
+    "name": "Everything",
+    "version": "1.4.1.1026",
+    "author": "voidtools",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Utilities",
+    "description": "Everything is a search engine that locates files and folders by filename instantly for Windows. Unlike standard Windows search, Everything initially displays every file and folder on your computer and updates in real-time. It is incredibly fast, lightweight, and uses minimal system resources.",
+    "dateOriginal": "2024-08-01",
+    "dateSource": "2026-10-06",
+    "size": "1782579",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.voidtools.com/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "Everything.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Everything_icon.png",
+    "screenshots": [
+      "https://www.voidtools.com/Everything.png",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Everything_search_engine_1.4.1.png/300px-Everything_search_engine_1.4.1.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/Everything-1.4.1.1026.ARM.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "filezilla",
+    "name": "FileZilla",
+    "version": "3.6.0.2",
+    "author": "Tim Kosse",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Network",
+    "description": "FileZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface. It simplifies the process of transferring files to and from web servers, making it an essential networking tool.",
+    "dateOriginal": "2021-10-17",
+    "dateSource": "2026-10-06",
+    "size": "2097152",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://filezilla-project.org/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "filezilla.exe",
+    "fileType": "7z",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/256px-FileZilla_logo.svg.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/FileZilla_3.33.0_screenshot.png/800px-FileZilla_3.33.0_screenshot.png",
+      "https://filezilla-project.org/images/screenshots/fz3_win.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/filezilla_3.6.0.2_arm.7z",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "greenshot",
+    "name": "Greenshot",
+    "version": "0.7.009",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Productivity",
+    "description": "Greenshot is a light-weight screenshot software tool for Windows with key features such as quickly creating screenshots of a selected region, window or fullscreen, and annotating them easily.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "98713",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "Greenshot.exe",
+    "fileType": "7z",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Greenshot_Logo.png/256px-Greenshot_Logo.png",
+    "screenshots": [
+      "https://getgreenshot.org/assets/images/greenshot-editor-2012.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/Greenshot_0.7.009_AnyCPU.7z",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "kodi",
+    "name": "Kodi",
+    "version": "20.90",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Multimedia",
+    "description": "Kodi is a free and open-source media player software application developed by the XBMC Foundation. Designed as a complete media center, it allows you to organize and play your local videos, music, and podcasts with a beautiful '10-foot user interface' perfect for TVs and tablets.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "117546188",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "kodi.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kodi-logo-Thumbnail.png/256px-Kodi-logo-Thumbnail.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kodi_17.0_Krypton_Estuary_home_screen.png/800px-Kodi_17.0_Krypton_Estuary_home_screen.png",
+      "https://kodi.tv/images/carousel/tv-shows.jpg"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/Kodi.Nexus.20.90.125.0_ARM.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "mgba",
+    "name": "mGBA",
+    "version": "0.10",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Games",
+    "description": "mGBA is a modern and highly accurate emulator for running Game Boy Advance games. It aims to be faster and more accurate than older emulators, while adding essential features like save states and fast-forward, making it ideal for ARM32 gaming.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "3145728",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "mGBA.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MGBA_logo.png/256px-MGBA_logo.png",
+    "screenshots": [
+      "https://mgba.io/images/screenshots/mgba-windows.png",
+      "https://mgba.io/images/screenshots/mgba-windows-2.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/mgba-winarm32.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "moonlight",
+    "name": "Moonlight",
+    "version": "1.0",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Games",
+    "description": "Moonlight allows you to stream your collection of games from your GameStream-compatible PC to any supported device and play them remotely. Moonlight is perfect for enjoying AAA PC gaming on the go with your ARM32 tablet, without sacrificing graphics and game selection.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "29884416",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "Moonlight.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Moonlight_Logo.png/256px-Moonlight_Logo.png",
+    "screenshots": [
+      "https://moonlight-stream.org/images/moonlight-pc-app.png",
+      "https://moonlight-stream.org/images/moonlight-mobile-app.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/Moonlight-winarm32.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "mpv",
+    "name": "mpv Player",
+    "version": "2.0",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Multimedia",
+    "description": "mpv is a free, open-source, and cross-platform media player. It focuses on performance, minimalism, and a streamlined approach, often outperforming other players in rendering high-quality video smoothly on lower-end ARM hardware.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "19922944",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "mpv.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mpv_logo.png/256px-Mpv_logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mpv-0.32.0.png/800px-Mpv-0.32.0.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/mpv-2.0-winarm32.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "notepadpp",
+    "name": "Notepad++",
+    "version": "6.5.1a",
+    "author": "Don Ho",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Development",
+    "description": "Notepad++ is a free source code editor and Notepad replacement that supports several languages. It features syntax highlighting, code folding, and an extensible plugin system. This ARM32 build allows you to comfortably edit configuration files, write code, or just take quick notes with a powerful tabbed interface.",
+    "dateOriginal": "2021-10-17",
+    "dateSource": "2026-10-06",
+    "size": "3460300",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://notepad-plus-plus.org/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "notepad++.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png",
+    "screenshots": [
+      "https://notepad-plus-plus.org/assets/images/npp-screenshot.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Notepad%2B%2B_7.6.6_Windows_10.png/800px-Notepad%2B%2B_7.6.6_Windows_10.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/Notepad%2B%2B%206.5.1a.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "openvpn_gui",
+    "name": "OpenVPN GUI",
+    "version": "11.50.0",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Network",
+    "description": "OpenVPN GUI is the official Windows interface for OpenVPN, a leading open-source virtual private network (VPN) solution. It allows you to safely connect to business or home networks remotely, protecting your privacy and data.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "1363148",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "openvpn-gui.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/OpenVPN_logo.svg/256px-OpenVPN_logo.svg.png",
+    "screenshots": [
+      "https://openvpn.net/wp-content/uploads/openvpn-connect-for-windows.jpg"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/openvpn-gui-v11.50.0.0-Release-winarm32.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "paintdotnet",
+    "name": "Paint.NET",
+    "version": "3.36",
+    "author": "dotPDN LLC",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Multimedia",
+    "description": "Paint.NET is image and photo editing software for PCs that run Windows. It features an intuitive and innovative user interface with support for layers, unlimited undo, special effects, and a wide variety of useful and powerful tools. It bridges the gap between MS Paint and advanced editors like Photoshop.",
+    "dateOriginal": "2021-10-17",
+    "dateSource": "2026-10-06",
+    "size": "1153433",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.getpaint.net/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "PaintDotNet.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Paint.NET_icon.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Paint.NET_4.0_screenshot.png/800px-Paint.NET_4.0_screenshot.png",
+      "https://www.getpaint.net/images/pdn4_1.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/Paint.NET.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "prboom",
+    "name": "PrBoom",
+    "version": "2.5",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Games",
+    "description": "PrBoom is a version of the classic 3D shoot-em-up game Doom, originally written by id Software. It is a highly compatible source port that runs extremely well on ARM32 processors.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "1887436",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "prboom.exe",
+    "fileType": "7z",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Doom_logo.png/256px-Doom_logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PrBoom.png/800px-PrBoom.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/prboom_arm.7z",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "putty",
+    "name": "PuTTY",
+    "version": "0.76",
+    "author": "Simon Tatham",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Utilities",
+    "description": "PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection. It is the perfect lightweight tool for developers who need to manage remote servers directly from their ARM32 devices.",
+    "dateOriginal": "2021-07-10",
+    "dateSource": "2026-10-06",
+    "size": "3040870",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.chiark.greenend.org.uk/~sgtatham/putty/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "putty.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/PuTTY_icon_128px.png/120px-PuTTY_icon_128px.png",
+    "screenshots": [
+      "https://www.chiark.greenend.org.uk/~sgtatham/putty/screenshot.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PuTTY_0.71_on_Windows_10.png/800px-PuTTY_0.71_on_Windows_10.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/putty.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "python312",
+    "name": "Python",
+    "version": "3.12.4",
+    "author": "Python Software Foundation",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Development",
+    "description": "Python is a widely used high-level programming language that lets you work quickly and integrate systems more effectively. This is the official installer for Windows ARM32, providing the complete Python environment, IDLE, and pip to run your favorite scripts and development projects locally.",
+    "dateOriginal": "2024-07-15",
+    "dateSource": "2026-10-06",
+    "size": "25899827",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically execute the setup installer."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.python.org/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [
+      "/quiet",
+      "InstallAllUsers=1",
+      "PrependPath=1"
+    ],
+    "DownloadPath": "python-3.12.4-arm.exe",
+    "fileType": "exe",
+    "uninstallParameters": [],
+    "isPortable": false,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/256px-Python-logo-notext.svg.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Python_IDLE_Screenshot.png/800px-Python_IDLE_Screenshot.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/800px-Python_logo_and_wordmark.svg.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/python-3.12.4-arm.exe",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "qbittorrent",
+    "name": "qBittorrent",
+    "version": "4.5.0 alpha1",
+    "author": "The qBittorrent project",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Network",
+    "description": "The qBittorrent project aims to provide an open-source software alternative to µTorrent. It features a clean, ad-free interface, an integrated search engine, RSS support, and full encryption capabilities. This build allows robust and lightweight torrent downloading natively on ARM32.",
+    "dateOriginal": "2022-06-30",
+    "dateSource": "2026-10-06",
+    "size": "22649241",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.qbittorrent.org/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "qbittorrent.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Qbittorrent_logo.svg/256px-Qbittorrent_logo.svg.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Qbittorrent_4.1.5_on_Windows_10.png/800px-Qbittorrent_4.1.5_on_Windows_10.png",
+      "https://www.qbittorrent.org/img/screenshots/qbittorrent_main_window.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/qBittorrent-4.5.0alpha1.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "qemu",
+    "name": "QEMU",
+    "version": "6",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Utilities",
+    "description": "QEMU is a generic and open source machine emulator and virtualizer. When used as a machine emulator, QEMU can run OSes and programs made for one machine (e.g. an ARM board) on a different machine (e.g. your own PC), or vice-versa.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "63753420",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "qemu-system-i386.exe",
+    "fileType": "xz",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Qemu_logo.svg/256px-Qemu_logo.svg.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Qemu-linux.png/800px-Qemu-linux.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/QEMU6-ARM32-BUILD5.tar.xz",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "quake3",
+    "name": "Quake III Arena",
+    "version": "1.32",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Games",
+    "description": "Quake III Arena is a 1999 multiplayer-focused first-person shooter developed by id Software. This is a dedicated port compiled for ARM32 Windows, allowing you to experience the fast-paced, classic deathmatch action with great performance on ARM hardware.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "3670016",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "quake3.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Quake_III_Arena_logo.png/256px-Quake_III_Arena_logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Quake_3_Arena_q3dm6_Screenshot.png/800px-Quake_3_Arena_q3dm6_Screenshot.png",
+      "https://upload.wikimedia.org/wikipedia/en/c/ca/Quake_3_Arena_q3dm17_Screenshot.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/Quake3.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "retroarch",
+    "name": "RetroArch",
+    "version": "1.10",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Games",
+    "description": "RetroArch is a powerful frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of consoles through its slick graphical interface. With this ARM port, your device becomes the ultimate portable retro gaming machine.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "9856614",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "retroarch.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/RetroArch_logo.png/256px-RetroArch_logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/RetroArch_1.7.5_XMB.png/800px-RetroArch_1.7.5_XMB.png",
+      "https://www.retroarch.com/assets/images/retroarch-ozone-screenshot.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/RetroArch-20240609T152111Z-001.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "scummvm",
+    "name": "ScummVM",
+    "version": "2.6.1",
+    "author": "ScummVM Team",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Games",
+    "description": "ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. Enjoy legendary classics from LucasArts, Sierra, and more right on your ARM32 device, reviving the golden age of adventure games.",
+    "dateOriginal": "2026-05-03",
+    "dateSource": "2026-10-06",
+    "size": "78643200",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.scummvm.org/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "scummvm.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ScummVM_Logo.png/256px-ScummVM_Logo.png",
+    "screenshots": [
+      "https://www.scummvm.org/images/screenshots/lucasarts/mi/mi_2_full.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Scummvm-gui-2.1.2-windows.png/800px-Scummvm-gui-2.1.2-windows.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/scummvm-2.6.1-winarm32.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "snes9x",
+    "name": "Snes9x",
+    "version": "1.53",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Games",
+    "description": "Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom on your Windows ARM tablet.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "2516582",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "snes9x.exe",
+    "fileType": "7z",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Snes9x_logo.png/256px-Snes9x_logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Snes9x_1.60_Windows_10.png/800px-Snes9x_1.60_Windows_10.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/snes9x_1.53_arm.7z",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "sumatrapdf",
+    "name": "Sumatra PDF",
+    "version": "Latest",
+    "author": "Krzysztof Kowalczyk",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Productivity",
+    "description": "Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows. It is small, portable and starts up very fast. The minimalistic interface prioritizes the reading experience, making it the perfect document viewer for ARM tablets.",
+    "dateOriginal": "2021-10-17",
+    "dateSource": "2026-10-06",
+    "size": "5347737",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.sumatrapdfreader.org/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "SumatraPDF.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Sumatra_PDF_logo.svg/256px-Sumatra_PDF_logo.svg.png",
+    "screenshots": [
+      "https://www.sumatrapdfreader.org/docs/images/sumatra-1.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sumatra_PDF_3.1.2_Windows_10.png/800px-Sumatra_PDF_3.1.2_Windows_10.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/SumatraPDF.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "synergy",
+    "name": "Synergy",
+    "version": "1.4.12",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Utilities",
+    "description": "Synergy is a software utility for sharing a single mouse and keyboard between multiple computers. It is incredibly useful for seamlessly interacting with your ARM32 tablet using your main PC's peripherals without switching hardware.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "4823449",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "synergy.exe",
+    "fileType": "7z",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Synergy_Logo.png/256px-Synergy_Logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Synergy_1.4.15_Windows.png/800px-Synergy_1.4.15_Windows.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/synergy_1.4.12_beta_arm.7z",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "tightvnc",
+    "name": "TightVNC",
+    "version": "2.8",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Network",
+    "description": "TightVNC is a free remote control software package. With TightVNC, you can see the desktop of a remote machine and control it with your local mouse and keyboard, just like you would do it sitting in the front of that computer.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "972185",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "tvnviewer.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TightVNC_logo.png/256px-TightVNC_logo.png",
+    "screenshots": [
+      "https://www.tightvnc.com/img/screen-viewer-1.png",
+      "https://www.tightvnc.com/img/screen-server-1.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/tightvnc.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "vlc",
+    "name": "VLC Media Player",
+    "version": "3.0.20",
+    "author": "VideoLAN",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Multimedia",
+    "description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. This specific port brings full local video and audio playback capabilities to Windows ARM, supporting a wide array of codecs out of the box.",
+    "dateOriginal": "2024-06-09",
+    "dateSource": "2026-10-06",
+    "size": "25270681",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically copy the portable files."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.videolan.org/vlc/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "vlc.exe",
+    "fileType": "7z",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/150px-VLC_Icon.svg.png",
+    "screenshots": [
+      "https://www.videolan.org/vlc/screenshots/vlc-windows-10.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/VLC_media_player_3.0.8_on_Windows_10.png/800px-VLC_media_player_3.0.8_on_Windows_10.png"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/vlc-3.0.20-Windows_11_ARM.7z",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "windirstat",
+    "name": "WinDirStat",
+    "version": "1.1.2",
+    "author": "Open Source Community",
+    "uploader": "fratta",
+    "source": "openrt_fratta",
+    "category": "Utilities",
+    "description": "WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows. It shows exactly where your disk space has gone with a colorful interactive treemap, helping you easily identify and delete large files to free up space on your device.",
+    "dateOriginal": "2024-01-01",
+    "dateSource": "2026-10-06",
+    "size": "2516582",
+    "dependencies": [],
+    "instructionSteps": [
+      "Ecureuil will automatically execute the setup installer."
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://open-rt.party/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "WinDirStat-arm.msi",
+    "fileType": "msi",
+    "uninstallParameters": [],
+    "isPortable": false,
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10",
+      "11"
+    ],
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/WinDirStat_Icon.png/256px-WinDirStat_Icon.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WinDirStat_Screenshot.png/800px-WinDirStat_Screenshot.png",
+      "https://windirstat.net/images/windirstat-main.jpg"
+    ],
+    "downloadUrl": "https://files.open-rt.party/Software/WinDirStat-arm.msi",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
   }
 ]
