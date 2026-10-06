@@ -535,10 +535,10 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/7-zip_logo.svg/256px-7-zip_logo.svg.png",
+    "iconUrl": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/7zip-logo.png",
     "screenshots": [
       "https://www.7-zip.org/7zippng.png",
-      "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/7-Zip_19.00.png/300px-7-Zip_19.00.png"
+      "https://upload.wikimedia.org/wikipedia/en/c/c5/7-Zip_19.00.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/7z2407-arm.exe",
     "language": [
@@ -578,10 +578,10 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Audacity_Logo_2021.svg/150px-Audacity_Logo_2021.svg.png",
+    "iconUrl": "https://icons.duckduckgo.com/ip3/audacityteam.org.ico",
     "screenshots": [
       "https://www.audacityteam.org/wp-content/uploads/2022/10/screenshot-editing-1024x609.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Audacity_2.3.2.png/800px-Audacity_2.3.2.png"
+      "https://upload.wikimedia.org/wikipedia/commons/a/ab/Audacity_2.3.2.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/Audacity.zip",
     "language": [
@@ -621,9 +621,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/AutoHotkey_logo.png/256px-AutoHotkey_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/AutoHotkey/AutoHotkey/master/Template.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AutoHotkey_Window_Spy.png/800px-AutoHotkey_Window_Spy.png",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4c/AutoHotkey_Window_Spy.png",
       "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ahk_script.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/AutoHotkey.zip",
@@ -664,9 +664,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/256px-Chromium_Logo.svg.png",
+    "iconUrl": "https://raw.githubusercontent.com/chromium/chromium/main/chrome/app/theme/chromium/win/chromium.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chromium_79_on_Windows_10.png/800px-Chromium_79_on_Windows_10.png"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4e/Chromium_79_on_Windows_10.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/chromium-winarm32-beta.exe",
     "language": [
@@ -706,9 +706,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Classic_Shell_logo.png/256px-Classic_Shell_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/Open-Shell/Open-Shell-Menu/master/Src/StartMenu/StartMenu.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Classic_Shell_4.2.5_Windows_10.png/800px-Classic_Shell_4.2.5_Windows_10.png",
+      "https://upload.wikimedia.org/wikipedia/commons/2/23/Classic_Shell_4.2.5_Windows_10.png",
       "https://www.classicshell.net/images/classicshell.jpg"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/ClassicStartMenu.zip",
@@ -749,10 +749,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Curl-logo.png/256px-Curl-logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/curl/curl/master/docs/favicon.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Curl-screenshot.png/800px-Curl-screenshot.png",
-      "https://curl.se/logo/curl-symbol.png"
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Curl-screenshot.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/curl-7.70.0-winarm32.zip",
     "language": [
@@ -792,9 +791,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DOSBox_logo.png/256px-DOSBox_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/dosbox-staging/dosbox-staging/main/src/gui/dosbox.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DOSBox_0.74_Windows.png/800px-DOSBox_0.74_Windows.png"
+      "https://upload.wikimedia.org/wikipedia/commons/4/4c/DOSBox_0.74_Windows.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/dosbox2.zip",
     "language": [
@@ -834,9 +833,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Duke_Nukem_3D_logo.png/256px-Duke_Nukem_3D_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/chocolate-doom/chocolate-doom/master/data/doom.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Duke_Nukem_3D_Screenshot.png/800px-Duke_Nukem_3D_Screenshot.png",
+      "https://upload.wikimedia.org/wikipedia/en/8/87/Duke_Nukem_3D_Screenshot.png",
       "https://www.dosbox.com/comp_list/images/duke3d.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/ChocolateDuke3D.zip",
@@ -877,10 +876,10 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Everything_icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/voidtools/Everything/master/Everything.ico",
     "screenshots": [
       "https://www.voidtools.com/Everything.png",
-      "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Everything_search_engine_1.4.1.png/300px-Everything_search_engine_1.4.1.png"
+      "https://upload.wikimedia.org/wikipedia/en/5/52/Everything_search_engine_1.4.1.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/Everything-1.4.1.1026.ARM.zip",
     "language": [
@@ -920,9 +919,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/256px-FileZilla_logo.svg.png",
+    "iconUrl": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/filezilla-logo.png",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/FileZilla_3.33.0_screenshot.png/800px-FileZilla_3.33.0_screenshot.png",
+      "https://upload.wikimedia.org/wikipedia/commons/5/59/FileZilla_3.33.0_screenshot.png",
       "https://filezilla-project.org/images/screenshots/fz3_win.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/filezilla_3.6.0.2_arm.7z",
@@ -963,10 +962,8 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Greenshot_Logo.png/256px-Greenshot_Logo.png",
-    "screenshots": [
-      "https://getgreenshot.org/assets/images/greenshot-editor-2012.png"
-    ],
+    "iconUrl": "https://raw.githubusercontent.com/greenshot/greenshot/master/Greenshot/Icons/Greenshot.ico",
+    "screenshots": [],
     "downloadUrl": "https://files.open-rt.party/Software/Greenshot_0.7.009_AnyCPU.7z",
     "language": [
       "en-US"
@@ -1005,9 +1002,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kodi-logo-Thumbnail.png/256px-Kodi-logo-Thumbnail.png",
+    "iconUrl": "https://raw.githubusercontent.com/xbmc/xbmc/master/tools/windows/packaging/media/kodi.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kodi_17.0_Krypton_Estuary_home_screen.png/800px-Kodi_17.0_Krypton_Estuary_home_screen.png",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kodi_17.0_Krypton_Estuary_home_screen.png",
       "https://kodi.tv/images/carousel/tv-shows.jpg"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/Kodi.Nexus.20.90.125.0_ARM.zip",
@@ -1048,7 +1045,7 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MGBA_logo.png/256px-MGBA_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/mgba-emu/mgba/master/res/mgba-256.png",
     "screenshots": [
       "https://mgba.io/images/screenshots/mgba-windows.png",
       "https://mgba.io/images/screenshots/mgba-windows-2.png"
@@ -1091,7 +1088,7 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Moonlight_Logo.png/256px-Moonlight_Logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/moonlight-stream/moonlight-qt/master/app/gui/res/moonlight.ico",
     "screenshots": [
       "https://moonlight-stream.org/images/moonlight-pc-app.png",
       "https://moonlight-stream.org/images/moonlight-mobile-app.png"
@@ -1134,9 +1131,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mpv_logo.png/256px-Mpv_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/mpv-player/mpv/master/osdep/mpv.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mpv-0.32.0.png/800px-Mpv-0.32.0.png"
+      "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mpv-0.32.0.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/mpv-2.0-winarm32.zip",
     "language": [
@@ -1176,10 +1173,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png",
+    "iconUrl": "https://raw.githubusercontent.com/notepad-plus-plus/notepad-plus-plus/master/PowerEditor/src/icons/npp.ico",
     "screenshots": [
-      "https://notepad-plus-plus.org/assets/images/npp-screenshot.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Notepad%2B%2B_7.6.6_Windows_10.png/800px-Notepad%2B%2B_7.6.6_Windows_10.png"
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/Notepad%2B%2B_7.6.6_Windows_10.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/Notepad%2B%2B%206.5.1a.zip",
     "language": [
@@ -1219,7 +1215,7 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/OpenVPN_logo.svg/256px-OpenVPN_logo.svg.png",
+    "iconUrl": "https://raw.githubusercontent.com/OpenVPN/openvpn-gui/master/res/openvpn.ico",
     "screenshots": [
       "https://openvpn.net/wp-content/uploads/openvpn-connect-for-windows.jpg"
     ],
@@ -1261,9 +1257,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Paint.NET_icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/paintdotnet/release/master/PaintDotNet.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Paint.NET_4.0_screenshot.png/800px-Paint.NET_4.0_screenshot.png",
+      "https://upload.wikimedia.org/wikipedia/en/5/5e/Paint.NET_4.0_screenshot.png",
       "https://www.getpaint.net/images/pdn4_1.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/Paint.NET.zip",
@@ -1304,9 +1300,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Doom_logo.png/256px-Doom_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/coelckers/prboom-plus/master/prboom2/src/MAC/PrBoom.icns",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PrBoom.png/800px-PrBoom.png"
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/PrBoom.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/prboom_arm.7z",
     "language": [
@@ -1346,10 +1342,10 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/PuTTY_icon_128px.png/120px-PuTTY_icon_128px.png",
+    "iconUrl": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/putty/putty.png",
     "screenshots": [
       "https://www.chiark.greenend.org.uk/~sgtatham/putty/screenshot.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PuTTY_0.71_on_Windows_10.png/800px-PuTTY_0.71_on_Windows_10.png"
+      "https://upload.wikimedia.org/wikipedia/commons/6/69/PuTTY_0.71_on_Windows_10.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/putty.zip",
     "language": [
@@ -1393,10 +1389,10 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/256px-Python-logo-notext.svg.png",
+    "iconUrl": "https://raw.githubusercontent.com/python/cpython/main/PC/icons/python.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Python_IDLE_Screenshot.png/800px-Python_IDLE_Screenshot.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/800px-Python_logo_and_wordmark.svg.png"
+      "https://upload.wikimedia.org/wikipedia/commons/2/23/Python_IDLE_Screenshot.png",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/python-3.12.4-arm.exe",
     "language": [
@@ -1436,9 +1432,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Qbittorrent_logo.svg/256px-Qbittorrent_logo.svg.png",
+    "iconUrl": "https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/src/icons/qBittorrent.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Qbittorrent_4.1.5_on_Windows_10.png/800px-Qbittorrent_4.1.5_on_Windows_10.png",
+      "https://upload.wikimedia.org/wikipedia/commons/3/30/Qbittorrent_4.1.5_on_Windows_10.png",
       "https://www.qbittorrent.org/img/screenshots/qbittorrent_main_window.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/qBittorrent-4.5.0alpha1.zip",
@@ -1479,9 +1475,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Qemu_logo.svg/256px-Qemu_logo.svg.png",
+    "iconUrl": "https://raw.githubusercontent.com/qemu/qemu/master/pc-bios/qemu_logo_no_text.svg",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Qemu-linux.png/800px-Qemu-linux.png"
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/Qemu-linux.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/QEMU6-ARM32-BUILD5.tar.xz",
     "language": [
@@ -1521,9 +1517,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Quake_III_Arena_logo.png/256px-Quake_III_Arena_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/ioquake/ioq3/master/misc/setup/ioq3.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Quake_3_Arena_q3dm6_Screenshot.png/800px-Quake_3_Arena_q3dm6_Screenshot.png",
+      "https://upload.wikimedia.org/wikipedia/en/f/fa/Quake_3_Arena_q3dm6_Screenshot.png",
       "https://upload.wikimedia.org/wikipedia/en/c/ca/Quake_3_Arena_q3dm17_Screenshot.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/Quake3.zip",
@@ -1564,10 +1560,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/RetroArch_logo.png/256px-RetroArch_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/libretro/RetroArch/master/media/retroarch.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/RetroArch_1.7.5_XMB.png/800px-RetroArch_1.7.5_XMB.png",
-      "https://www.retroarch.com/assets/images/retroarch-ozone-screenshot.png"
+      "https://upload.wikimedia.org/wikipedia/commons/2/2f/RetroArch_1.7.5_XMB.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/RetroArch-20240609T152111Z-001.zip",
     "language": [
@@ -1607,10 +1602,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ScummVM_Logo.png/256px-ScummVM_Logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/scummvm/scummvm/master/icons/scummvm.ico",
     "screenshots": [
-      "https://www.scummvm.org/images/screenshots/lucasarts/mi/mi_2_full.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Scummvm-gui-2.1.2-windows.png/800px-Scummvm-gui-2.1.2-windows.png"
+      "https://upload.wikimedia.org/wikipedia/commons/6/68/Scummvm-gui-2.1.2-windows.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/scummvm-2.6.1-winarm32.zip",
     "language": [
@@ -1650,9 +1644,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Snes9x_logo.png/256px-Snes9x_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/snes9xgit/snes9x/master/win32/snes9x.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Snes9x_1.60_Windows_10.png/800px-Snes9x_1.60_Windows_10.png"
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/Snes9x_1.60_Windows_10.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/snes9x_1.53_arm.7z",
     "language": [
@@ -1692,10 +1686,10 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Sumatra_PDF_logo.svg/256px-Sumatra_PDF_logo.svg.png",
+    "iconUrl": "https://raw.githubusercontent.com/sumatrapdfreader/sumatrapdf/master/docs/icon_256.png",
     "screenshots": [
       "https://www.sumatrapdfreader.org/docs/images/sumatra-1.png",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sumatra_PDF_3.1.2_Windows_10.png/800px-Sumatra_PDF_3.1.2_Windows_10.png"
+      "https://upload.wikimedia.org/wikipedia/commons/8/87/Sumatra_PDF_3.1.2_Windows_10.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/SumatraPDF.zip",
     "language": [
@@ -1735,9 +1729,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Synergy_Logo.png/256px-Synergy_Logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/symless/synergy-core/master/res/synergy.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Synergy_1.4.15_Windows.png/800px-Synergy_1.4.15_Windows.png"
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/Synergy_1.4.15_Windows.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/synergy_1.4.12_beta_arm.7z",
     "language": [
@@ -1777,7 +1771,7 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TightVNC_logo.png/256px-TightVNC_logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/TightVNC/tightvnc-java/master/src/main/resources/com/glavsoft/viewer/images/vnc-logo-256x256.png",
     "screenshots": [
       "https://www.tightvnc.com/img/screen-viewer-1.png",
       "https://www.tightvnc.com/img/screen-server-1.png"
@@ -1820,10 +1814,10 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/150px-VLC_Icon.svg.png",
+    "iconUrl": "https://raw.githubusercontent.com/videolan/vlc/master/share/icons/128x128/vlc.png",
     "screenshots": [
       "https://www.videolan.org/vlc/screenshots/vlc-windows-10.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/VLC_media_player_3.0.8_on_Windows_10.png/800px-VLC_media_player_3.0.8_on_Windows_10.png"
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/VLC_media_player_3.0.8_on_Windows_10.png"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/vlc-3.0.20-Windows_11_ARM.7z",
     "language": [
@@ -1863,9 +1857,9 @@
       "10",
       "11"
     ],
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/WinDirStat_Icon.png/256px-WinDirStat_Icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/windirstat/windirstat/master/windirstat/res/icon1.ico",
     "screenshots": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WinDirStat_Screenshot.png/800px-WinDirStat_Screenshot.png",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/WinDirStat_Screenshot.png",
       "https://windirstat.net/images/windirstat-main.jpg"
     ],
     "downloadUrl": "https://files.open-rt.party/Software/WinDirStat-arm.msi",
