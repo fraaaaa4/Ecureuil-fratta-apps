@@ -11,5 +11,18 @@
     "authorLink": ["https://github.com/fraaaaa4"],
     "dateCreated": "2026-09-16",
     "isLocal": false
+  },
+  {
+    "id": "openrt_fratta",
+    "name": "OpenRT Fratta source (UNOFFICIAL)",
+    "description": "This is the unofficial OpenRT source for Ecureuil, made by Fratta, the developer of Ecureuil. All links are property of files.openRT, and stuff is of their property. This is just a link mirror.",
+    "categories": ["Utilities", "Games", "Multimedia", "Development", "Network", "Productivity"],
+    "url": "https://fraaaaa4.github.io/Ecureuil-fratta-apps/source-name-index.json",
+    "originalURL": "https://files.open-rt.party/Software/",
+    "iconUrl": "https://avatars.githubusercontent.com/u/84676916?s=200&v=4",
+    "author": "fratta",
+    "authorLink": ["https://github.com/fraaaaa4", "https://files.open-rt.party/.hidden/about.html"],
+    "dateCreated": "2026-10-06",
+    "isLocal": false
   }
 ]
