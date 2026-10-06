@@ -15,7 +15,7 @@
   {
     "id": "openrt_fratta",
     "name": "OpenRT Fratta source (UNOFFICIAL)",
-    "description": "This is the unofficial OpenRT source for Ecureuil, made by Fratta, the developer of Ecureuil. All links are property of files.openRT, and stuff is of their property. This is just a link mirror.",
+    "description": "This is the unofficial OpenRT source for Ecureuil, made by Fratta, the developer of Ecureuil. All links are property of files.openRT, and stuff is of their property. This is just a link mirror. I haven't tested all the apps, so I don't know well what are the dependencies needed, and on which Windows version they're compatible.",
     "categories": ["Utilities", "Games", "Multimedia", "Development", "Network", "Productivity"],
     "url": "https://fraaaaa4.github.io/Ecureuil-fratta-apps/source-name-index.json",
     "originalURL": "https://files.open-rt.party/Software/",
