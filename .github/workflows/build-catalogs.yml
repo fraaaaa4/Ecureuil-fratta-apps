@@ -7,6 +7,7 @@ on:
     paths:
       #substitute source-name with the name of the folder containing the app JSONs
       - 'fratta/**'
+      - 'openrt_fratta/**'
 
 permissions:
   contents: write
@@ -20,7 +21,7 @@ jobs:
 
       - name: Build catalog
         run: |
-          jq -s '.' fratta/*.json > source-name-index.json
+          jq -s '.' fratta/*.json openrt_fratta/*.json > source-name-index.json
 
       - name: Commit and push
         run: |
