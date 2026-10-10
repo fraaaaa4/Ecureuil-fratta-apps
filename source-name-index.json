@@ -634,7 +634,7 @@
   {
     "id": "chromium",
     "name": "Chromium Beta",
-    "version": "88",
+    "version": "77",
     "author": "The Chromium Authors",
     "uploader": "fratta",
     "source": "openrt_fratta",
@@ -645,7 +645,9 @@
     "size": "48129638",
     "dependencies": [],
     "instructionSteps": [
-      "Ecureuil will automatically execute the setup installer."
+      "Ecureuil will automatically execute the setup installer.",
+      "This version works better on 10 arm32",
+      "If it doesn't work, try these parameters: --no-sandbox, --disable-gpu"
     ],
     "isImmersive": false,
     "links": [
