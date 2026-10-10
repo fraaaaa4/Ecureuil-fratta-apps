@@ -10,7 +10,7 @@
   "dateOriginal": "2026-09-01",
   "dateSource": "2026-09-13",
   "size": "808000",
-  "dependencies": [],
+  "dependencies": ["https://7-zip.org/a/7z920.msi", "#EC?fratta#localsend9x"],
   "instructionSteps": ["Unzip the app", "Remember that you need OpenSSL 3.x for Windows", "Run the LocalSend exe"],
   "isImmersive": false,
   "links": ["https://github.com/fraaaaa4/LocalSend32"],
